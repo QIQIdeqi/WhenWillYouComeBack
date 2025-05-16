@@ -1,0 +1,96 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MiniGameProject",
+	"Description": "MiniGameProjectCore is the internal version of MiniGameProject, All its content and code can be used by both master and Edit_Dev branch, but the MiniGameProject can only be used by the Editor_Dev",
+	"Category": "Tencent",
+	"CreatedBy": "soccerzhang",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"EnabledByDefault": true,
+	"Modules":
+	[
+		{
+			"Name": "MiniGameProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MiniGameEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MiniGameProjectCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "Protocol",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+		
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "WXMiniGame",
+			"Enabled": true,
+			"WhitelistPlatforms": [ "HTML5" ],
+			"BlacklistPlatforms": [ "Win32", "Win64", "Mac", "Linux", "Android", "IOS" ]
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "UMGToolkit",
+			"Enabled": true
+		},
+		{
+			"Name": "SMSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "ExportNav",
+			"Enabled": true
+		},
+		{
+			"Name": "GMP",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedThirdPersonCamera",
+			"Enabled": true
+		}
+	],
+  "LocalizationTargets": 
+  [
+	{
+		"Name": "MiniGameProjectEditor",
+		"LoadingPolicy": "Editor"
+	},
+	{
+		"Name": "MiniGameProjectEditor_ToolTip",
+		"LoadingPolicy": "Editor"
+	},
+	{
+		"Name": "MiniGameProjectEditor_Category",
+		"LoadingPolicy": "Editor"
+	},
+	{
+		"Name": "MiniGameProjectEditor_PropertyNames",
+		"LoadingPolicy": "Editor"
+	}
+  ]
+}

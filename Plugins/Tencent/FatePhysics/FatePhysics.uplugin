@@ -1,0 +1,41 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Fate",
+  "Description": "一个使用了Fate作为后端的帧同步物理引擎",
+  "Category": "Other",
+  "CreatedBy": "aidenlfchen",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "CanContainContent": true,
+  "EnabledByDefault" : true,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "FateLowLevel",
+      "Type": "Runtime",
+      "LoadingPhase": "PreDefault"
+    },
+    {
+      "Name": "Fate",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    },
+    {
+      "Name": "FateEditor",
+      "Type": "Editor",
+      "LoadingPhase": "PostEngineInit"
+    }
+  ],
+  "Plugins" : [
+    {
+      "Name" : "GeometryProcessing",
+      "Enabled" : true
+    }
+  ]
+}

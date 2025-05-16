@@ -1,0 +1,50 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WXMiniGame",
+	"Description": "Used to access the WX API through C++.",
+	"Category": "Tencent",
+	"CreatedBy": "Liulianyou",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "WXMiniGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"BlacklistPlatforms": [ "Win32", "Win64", "Mac", "Linux", "Android", "IOS" ],
+			"WhitelistPlatforms": [ "HTML5" ]
+		},
+		{
+			"Name": "WXMiniGameCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"BlacklistPlatforms": [ "Win32", "Win64", "Mac", "Linux", "Android", "IOS" ],
+			"WhitelistPlatforms": [ "HTML5" ]
+		},
+		{
+			"Name": "WXAudio",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"BlacklistPlatforms": [ "Win32", "Win64", "Mac", "Linux", "Android", "IOS" ],
+			"WhitelistPlatforms": [ "HTML5" ]
+		},
+		{
+			"Name": "AudioFormatWXCopySource",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"BlacklistPlatforms": [ "HTML5" ],
+			"WhitelistPlatforms": [ "Win32", "Win64", "Mac", "Linux", "Android", "IOS" ]
+		}
+	],
+	"SupportedTargetPlatforms": [
+		"HTML5"
+	]
+}

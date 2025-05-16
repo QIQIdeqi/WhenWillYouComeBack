@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LightGameBox",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets":
+	[
+		{
+			"Name": "LightGameBox",
+			"LoadingPolicy": "Editor"
+		},
+		{
+			"Name": "LightGameBox_ToolTips",
+			"LoadingPolicy": "Editor"
+		}
+	]
+}

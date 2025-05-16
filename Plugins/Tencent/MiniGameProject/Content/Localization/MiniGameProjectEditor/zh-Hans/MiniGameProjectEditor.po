@@ -1,0 +1,3326 @@
+﻿# MiniGameProjectEditor Chinese (Simplified) translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: MiniGameProjectEditor\n"
+"POT-Creation-Date: 2025-01-07 10:15\n"
+"PO-Revision-Date: 2025-01-07 10:15\n"
+"Language-Team: \n"
+"Language: zh-Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	0A23133E4E14718D8DFCEE8F91B59AD3
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.Deadline_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.Deadline_Text.Text
+msgctxt ",0A23133E4E14718D8DFCEE8F91B59AD3"
+msgid "N"
+msgstr ""
+
+#. Key:	0BB2430A4ED4A8AFB7276F8F315689BC
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.Deadline_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.Deadline_Text.Text
+msgctxt ",0BB2430A4ED4A8AFB7276F8F315689BC"
+msgid "N"
+msgstr ""
+
+#. Key:	0C9A5AB04CE21C3F1603578A57079D84
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.TextBlock_118.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.TextBlock_118.Text
+msgctxt ",0C9A5AB04CE21C3F1603578A57079D84"
+msgid "历史最高得分榜"
+msgstr ""
+
+#. Key:	0F0CD4184CD7A915E95EACA1A6AD6EC8
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.微信排行文字_1.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.微信排行文字_1.Text
+msgctxt ",0F0CD4184CD7A915E95EACA1A6AD6EC8"
+msgid "省排行榜"
+msgstr ""
+
+#. Key:	1085CC0E4966F44C3A8D4C843B7F268C
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_PlayerName.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_PlayerName.Text
+msgctxt ",1085CC0E4966F44C3A8D4C843B7F268C"
+msgid "玩家名字七个字"
+msgstr ""
+
+#. Key:	1D8513F4456FFB8E01EBBDACE1EE5D37
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Pro.BP_RankUI_Pro_C:WidgetTree.HighScoreText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Pro.BP_RankUI_Pro_C:WidgetTree.HighScoreText.Text
+msgctxt ",1D8513F4456FFB8E01EBBDACE1EE5D37"
+msgid "总分榜"
+msgstr ""
+
+#. Key:	1F4C626149E727B7E56F7B94FD609A77
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.文本.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.文本.Text
+msgctxt ",1F4C626149E727B7E56F7B94FD609A77"
+msgid "售出"
+msgstr ""
+
+#. Key:	2384AC7A4220FBB30AB66CB674E45761
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.被动技2.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.被动技2.Text
+msgctxt ",2384AC7A4220FBB30AB66CB674E45761"
+msgid "被动2(仅展示)"
+msgstr ""
+
+#. Key:	285A5BD740F889C181135FB8053F4DA9
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.content.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.content.Text
+msgctxt ",285A5BD740F889C181135FB8053F4DA9"
+msgid "1234"
+msgstr ""
+
+#. Key:	2E93AD494DF9A0A44B439AA37315CAEC
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_Currency_2.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_Currency_2.Text
+msgctxt ",2E93AD494DF9A0A44B439AA37315CAEC"
+msgid "1234"
+msgstr ""
+
+#. Key:	31971F1841CEA20D8CD266835118E95C
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_Numerical.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_Numerical.Text
+msgctxt ",31971F1841CEA20D8CD266835118E95C"
+msgid "0"
+msgstr ""
+
+#. Key:	32275EE44BA46FC258C25F9E2122AB5A
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Pro.BP_RankUI_Pro_C:WidgetTree.LevelText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Pro.BP_RankUI_Pro_C:WidgetTree.LevelText.Text
+msgctxt ",32275EE44BA46FC258C25F9E2122AB5A"
+msgid "等级榜"
+msgstr ""
+
+#. Key:	334729564F51BDF4C6C59EAC11D8767D
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.UI_Widget_Common_Text_01_23.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.UI_Widget_Common_Text_01_23.Text
+msgctxt ",334729564F51BDF4C6C59EAC11D8767D"
+msgid "基础奖励"
+msgstr ""
+
+#. Key:	35A5C06942407D4511EAB1B8DA3F5260
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.属性3.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.属性3.Text
+msgctxt ",35A5C06942407D4511EAB1B8DA3F5260"
+msgid "属性3(仅展示)"
+msgstr ""
+
+#. Key:	3629F3A646E402AA1F059A92208C4575
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.排行榜.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.排行榜.Text
+msgctxt ",3629F3A646E402AA1F059A92208C4575"
+msgid "排行榜"
+msgstr ""
+
+#. Key:	371D915E4F55FD08811106AC812EAC9E
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/WBP_TabSwitcher.WBP_TabSwitcher_C:WidgetTree.TextBlock0.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/WBP_TabSwitcher.WBP_TabSwitcher_C:WidgetTree.TextBlock0.Text
+msgctxt ",371D915E4F55FD08811106AC812EAC9E"
+msgid "好友排行"
+msgstr ""
+
+#. Key:	3ADDBB5F4FD50D596C3D1390B978ED6B
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Game.BP_RankUI_Game_C:WidgetTree.KillText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Game.BP_RankUI_Game_C:WidgetTree.KillText.Text
+msgctxt ",3ADDBB5F4FD50D596C3D1390B978ED6B"
+msgid "累计击杀榜"
+msgstr ""
+
+#. Key:	3D3548854B08D7FBDA1BCEA9C480F911
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Exp_H.UMG_BPLevel_Exp_H_C:WidgetTree.Level_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Exp_H.UMG_BPLevel_Exp_H_C:WidgetTree.Level_Text.Text
+msgctxt ",3D3548854B08D7FBDA1BCEA9C480F911"
+msgid "N"
+msgstr ""
+
+#. Key:	3EA0A7E647E61363939C79877670F8B7
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_NumericUnit.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_NumericUnit.Text
+msgctxt ",3EA0A7E647E61363939C79877670F8B7"
+msgid "米"
+msgstr ""
+
+#. Key:	3F3B459B42F8D7359F6B528CE441CDF5
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_3.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_3.Text
+msgctxt ",3F3B459B42F8D7359F6B528CE441CDF5"
+msgid "赛季任务"
+msgstr ""
+
+#. Key:	419F6FF3467162377BF7C795B4669457
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/WBP_TabSwitcher.WBP_TabSwitcher_C:WidgetTree.TextBlock1.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/WBP_TabSwitcher.WBP_TabSwitcher_C:WidgetTree.TextBlock1.Text
+msgctxt ",419F6FF3467162377BF7C795B4669457"
+msgid "好友排行"
+msgstr ""
+
+#. Key:	43B4EE3E47F02AC1C30179881891F986
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemDescription.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemDescription.Text
+msgctxt ",43B4EE3E47F02AC1C30179881891F986"
+msgid "道具描述"
+msgstr ""
+
+#. Key:	472D922346BD6EC5D48C8F935F2D390D
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.属性2.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.属性2.Text
+msgctxt ",472D922346BD6EC5D48C8F935F2D390D"
+msgid "属性2(仅展示)"
+msgstr ""
+
+#. Key:	4D6F2B6E422BF78F0C4E5F9401427A9B
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Reward_V.UMG_BPLevel_Reward_V_C:WidgetTree.Text_Count.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Reward_V.UMG_BPLevel_Reward_V_C:WidgetTree.Text_Count.Text
+msgctxt ",4D6F2B6E422BF78F0C4E5F9401427A9B"
+msgid "x500"
+msgstr ""
+
+#. Key:	527207134957D190C0B621874E543872
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.全服排行文字.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.全服排行文字.Text
+msgctxt ",527207134957D190C0B621874E543872"
+msgid "全服排行榜"
+msgstr ""
+
+#. Key:	53B39CD04892A7B7B024928448F12DA2
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.More_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.More_Text.Text
+msgctxt ",53B39CD04892A7B7B024928448F12DA2"
+msgid "..."
+msgstr ""
+
+#. Key:	53B69F1645FC48BA55A470BB610C3731
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_1.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_1.Text
+msgctxt ",53B69F1645FC48BA55A470BB610C3731"
+msgid "每周任务"
+msgstr ""
+
+#. Key:	54393C2A48635DDB236DB49D4DF6F8C1
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Exp_V.UMG_BPLevel_Exp_V_C:WidgetTree.Level_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Exp_V.UMG_BPLevel_Exp_V_C:WidgetTree.Level_Text.Text
+msgctxt ",54393C2A48635DDB236DB49D4DF6F8C1"
+msgid "N"
+msgstr ""
+
+#. Key:	544AF3CC43863AF99DD509A350EC9C10
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.UI_Widget_Common_Text_01.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.UI_Widget_Common_Text_01.Text
+msgctxt ",544AF3CC43863AF99DD509A350EC9C10"
+msgid "进阶奖励"
+msgstr ""
+
+#. Key:	55F06395426FC3A5725900ABB9FBE46E
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.text_41.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.text_41.Text
+msgctxt ",55F06395426FC3A5725900ABB9FBE46E"
+msgid "一键领取"
+msgstr ""
+
+#. Key:	57078B7645B0E464C2F9DE8666012539
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Number_V.UMG_BPLevel_Number_V_C:WidgetTree.Level_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Number_V.UMG_BPLevel_Number_V_C:WidgetTree.Level_Text.Text
+msgctxt ",57078B7645B0E464C2F9DE8666012539"
+msgid "N"
+msgstr ""
+
+#. Key:	58C1E0254E5F27B3E7F66AB2986A650B
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_Currency_1.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_Currency_1.Text
+msgctxt ",58C1E0254E5F27B3E7F66AB2986A650B"
+msgid "1234"
+msgstr ""
+
+#. Key:	5AE6791547CEA5DD59F31D9FDB4F0C41
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.BUFF2.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.BUFF2.Text
+msgctxt ",5AE6791547CEA5DD59F31D9FDB4F0C41"
+msgid "BUFF2(仅展示)"
+msgstr ""
+
+#. Key:	5C1E9CD841AEA73C43149595166909B8
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.Deadline_Text_Content.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.Deadline_Text_Content.Text
+msgctxt ",5C1E9CD841AEA73C43149595166909B8"
+msgid "距离赛季结束还有"
+msgstr ""
+
+#. Key:	5CE00BBD493E414D8D4009843C83374C
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.ActiveTask_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.ActiveTask_Text.Text
+msgctxt ",5CE00BBD493E414D8D4009843C83374C"
+msgid "任务"
+msgstr ""
+
+#. Key:	5EC8AD4048E5F3B4645774B396DBBDB8
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:ExecuteUbergraph_BP_RankCount [Script Bytecode]
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:ExecuteUbergraph_BP_RankCount [Script Bytecode]
+msgctxt ",5EC8AD4048E5F3B4645774B396DBBDB8"
+msgid "未上榜"
+msgstr ""
+
+#. Key:	657762A34D7E1EE88F3441910DA9922C
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemAmount_1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemAmount_1.Text
+msgctxt ",657762A34D7E1EE88F3441910DA9922C"
+msgid "9999"
+msgstr ""
+
+#. Key:	6BA907F34DBEB99735479A807D584A45
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_Ranking.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_Ranking.Text
+msgctxt ",6BA907F34DBEB99735479A807D584A45"
+msgid "9999"
+msgstr ""
+
+#. Key:	6BC8699F40ED976F18539187EBB6FBB5
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.属性1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.属性1.Text
+msgctxt ",6BC8699F40ED976F18539187EBB6FBB5"
+msgid "属性1(仅展示)"
+msgstr ""
+
+#. Key:	6BED894A4C5C3DC6AB41949E9DBA7A14
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.HighScoreText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.HighScoreText.Text
+msgctxt ",6BED894A4C5C3DC6AB41949E9DBA7A14"
+msgid "总分榜"
+msgstr ""
+
+#. Key:	74A9B9864F47A88ABEBEF2BAB6E95301
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Pro.BP_RankUI_Pro_C:WidgetTree.KillText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Pro.BP_RankUI_Pro_C:WidgetTree.KillText.Text
+msgctxt ",74A9B9864F47A88ABEBEF2BAB6E95301"
+msgid "累计击杀榜"
+msgstr ""
+
+#. Key:	77B015444A6864DFBC820CBC03CA5D04
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:WidgetTree.排名.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:WidgetTree.排名.Text
+msgctxt ",77B015444A6864DFBC820CBC03CA5D04"
+msgid "1"
+msgstr ""
+
+#. Key:	7A96CD104BE81380100D6BB9CFB2FDC4
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_Currency.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_Currency.Text
+msgctxt ",7A96CD104BE81380100D6BB9CFB2FDC4"
+msgid "1234"
+msgstr ""
+
+#. Key:	817D8DCC4A2F4D354D0D5899716D32E2
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:WidgetTree.星星数量.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:WidgetTree.星星数量.Text
+msgctxt ",817D8DCC4A2F4D354D0D5899716D32E2"
+msgid "290,138"
+msgstr ""
+
+#. Key:	82915C044E979AAB9CA2F89C8A54DED4
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_2.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_2.Text
+msgctxt ",82915C044E979AAB9CA2F89C8A54DED4"
+msgid "每周任务"
+msgstr ""
+
+#. Key:	87FE4C1C4F0FE35F8437FCAF886D74B2
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.KillText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.KillText.Text
+msgctxt ",87FE4C1C4F0FE35F8437FCAF886D74B2"
+msgid "单局击杀榜"
+msgstr ""
+
+#. Key:	8D3EA45F429E1D56EBB8C2BE9D11120D
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加主动技_1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加主动技_1.Text
+msgctxt ",8D3EA45F429E1D56EBB8C2BE9D11120D"
+msgid "附加被动技"
+msgstr ""
+
+#. Key:	8F6422644CF345D23A4342A25F84FCA4
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.UI_Widget_Common_Text_01_2.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.UI_Widget_Common_Text_01_2.Text
+msgctxt ",8F6422644CF345D23A4342A25F84FCA4"
+msgid "更多游戏"
+msgstr ""
+
+#. Key:	8FD89BC847FB194E0D8EDBB0E726584A
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.text_41.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.text_41.Text
+msgctxt ",8FD89BC847FB194E0D8EDBB0E726584A"
+msgid "一键领取"
+msgstr ""
+
+#. Key:	957C77D8459167AB401DE2A76787DA80
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Reward_H.UMG_BPLevel_Reward_H_C:WidgetTree.Text_Count.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Reward_H.UMG_BPLevel_Reward_H_C:WidgetTree.Text_Count.Text
+msgctxt ",957C77D8459167AB401DE2A76787DA80"
+msgid "x500"
+msgstr ""
+
+#. Key:	97F97F7D4BC45A6C9C2ED98D8F5B3527
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.BUFF3.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.BUFF3.Text
+msgctxt ",97F97F7D4BC45A6C9C2ED98D8F5B3527"
+msgid "BUFF3(仅展示)"
+msgstr ""
+
+#. Key:	9800977C48A34AF047DBF3A0A16BC9E1
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加主动技.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加主动技.Text
+msgctxt ",9800977C48A34AF047DBF3A0A16BC9E1"
+msgid "附加主动技"
+msgstr ""
+
+#. Key:	9D0C7F2147DACCB8DD929BBF1546E926
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加属性.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加属性.Text
+msgctxt ",9D0C7F2147DACCB8DD929BBF1546E926"
+msgid "附加属性"
+msgstr ""
+
+#. Key:	9D3887C74793A9313BF341BB66E5878A
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.文本_1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.文本_1.Text
+msgctxt ",9D3887C74793A9313BF341BB66E5878A"
+msgid "装备/卸下"
+msgstr ""
+
+#. Key:	9DEFA5B8493ACB8CD72CC1A2D7EF5943
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.BUFF1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.BUFF1.Text
+msgctxt ",9DEFA5B8493ACB8CD72CC1A2D7EF5943"
+msgid "BUFF1(仅展示)"
+msgstr ""
+
+#. Key:	A1EFAB234A719B54EAA0D4AB3FFFED20
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_Numerical.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_Numerical.Text
+msgctxt ",A1EFAB234A719B54EAA0D4AB3FFFED20"
+msgid "30"
+msgstr ""
+
+#. Key:	A3EE21DC436E1EF37934D1A2EACFF77A
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_NumericalUnit.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_NumericalUnit.Text
+msgctxt ",A3EE21DC436E1EF37934D1A2EACFF77A"
+msgid "米"
+msgstr ""
+
+#. Key:	A8AAEB58476788726FEA14B4A9AA3F56
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:WidgetTree.名字.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankCount.BP_RankCount_C:WidgetTree.名字.Text
+msgctxt ",A8AAEB58476788726FEA14B4A9AA3F56"
+msgid "名字最长应该9个字"
+msgstr ""
+
+#. Key:	AF2D8A4841C9BF6918362BA8CA8A8790
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock.Text
+msgctxt ",AF2D8A4841C9BF6918362BA8CA8A8790"
+msgid "BP奖励"
+msgstr ""
+
+#. Key:	B48F97C94104ED268554C2ACB52E6DF0
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.主动技1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.主动技1.Text
+msgctxt ",B48F97C94104ED268554C2ACB52E6DF0"
+msgid "主动1(仅展示)"
+msgstr ""
+
+#. Key:	B694265D464FB6FDD26C6C8C1C04055B
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemAmount.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemAmount.Text
+msgctxt ",B694265D464FB6FDD26C6C8C1C04055B"
+msgid "当前拥有:99"
+msgstr ""
+
+#. Key:	B7E1DF5C44CE1080368D26BAFB9BA324
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.Deadline_Text_Content.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.Deadline_Text_Content.Text
+msgctxt ",B7E1DF5C44CE1080368D26BAFB9BA324"
+msgid "距离赛季结束还有"
+msgstr ""
+
+#. Key:	BBC00B514822889561831EA95CCF8B0A
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.Deadline_Text_Content.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.Deadline_Text_Content.Text
+msgctxt ",BBC00B514822889561831EA95CCF8B0A"
+msgid "距离赛季结束还有"
+msgstr ""
+
+#. Key:	BE281C734EB76168681C9AA43C633576
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.榜上人数.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.榜上人数.Text
+msgctxt ",BE281C734EB76168681C9AA43C633576"
+msgid "榜上人数："
+msgstr ""
+
+#. Key:	BE36D4B44B7ADFBD5E047EA2244B32A3
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加BUFF.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.附加BUFF.Text
+msgctxt ",BE36D4B44B7ADFBD5E047EA2244B32A3"
+msgid "附加BUFF"
+msgstr ""
+
+#. Key:	C77BC0984D11E6858BF7F1B830696BCA
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.UI_Widget_Common_Text_01_2.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.UI_Widget_Common_Text_01_2.Text
+msgctxt ",C77BC0984D11E6858BF7F1B830696BCA"
+msgid "更多游戏"
+msgstr ""
+
+#. Key:	C7D337514254916623DD9A9FBD3161B4
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.content.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_多奖励竖屏.模板_多奖励竖屏_C:WidgetTree.content.Text
+msgctxt ",C7D337514254916623DD9A9FBD3161B4"
+msgid "1234"
+msgstr ""
+
+#. Key:	C888DAC0499C7103832B90A2F856F6BD
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_RankPeopleNum.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_RankPeopleNum.Text
+msgctxt ",C888DAC0499C7103832B90A2F856F6BD"
+msgid "文本"
+msgstr ""
+
+#. Key:	D14904F6495A5AF4B54A2EB4A9889C88
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemName_1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemName_1.Text
+msgctxt ",D14904F6495A5AF4B54A2EB4A9889C88"
+msgid "装备名称"
+msgstr ""
+
+#. Key:	D26D5B964377923396FAF683F67D4D09
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.TextBlock.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_WX.BP_RankUI_WX_C:WidgetTree.TextBlock.Text
+msgctxt ",D26D5B964377923396FAF683F67D4D09"
+msgid "单局击杀榜"
+msgstr ""
+
+#. Key:	DBE461A849711A509B870896AAC0A7B9
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.Deadline_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.Deadline_Text.Text
+msgctxt ",DBE461A849711A509B870896AAC0A7B9"
+msgid "N"
+msgstr ""
+
+#. Key:	DD5BCD794560B865FA3B2BA9C4DDE157
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Number_H.UMG_BPLevel_Number_H_C:WidgetTree.Level_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/UMG_BPLevel_Number_H.UMG_BPLevel_Number_H_C:WidgetTree.Level_Text.Text
+msgctxt ",DD5BCD794560B865FA3B2BA9C4DDE157"
+msgid "N"
+msgstr ""
+
+#. Key:	E34EB16B485D6114236360A07B7CE2E9
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemName.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.ItemName.Text
+msgctxt ",E34EB16B485D6114236360A07B7CE2E9"
+msgid "道具名称"
+msgstr ""
+
+#. Key:	E5A50E584E37879456BCC4871F90F115
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.主动技2.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.主动技2.Text
+msgctxt ",E5A50E584E37879456BCC4871F90F115"
+msgid "主动2(仅展示)"
+msgstr ""
+
+#. Key:	E6BD397B47852D7366CD9FA2D2D5E69A
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_Title.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/模板_通用.模板_通用_C:WidgetTree.TextBlock_Title.Text
+msgctxt ",E6BD397B47852D7366CD9FA2D2D5E69A"
+msgid "排行榜"
+msgstr ""
+
+#. Key:	E711A32B4B9668DA52F0AE87C2B74544
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.被动技1.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.被动技1.Text
+msgctxt ",E711A32B4B9668DA52F0AE87C2B74544"
+msgid "被动1(仅展示)"
+msgstr ""
+
+#. Key:	E98056D94092D0A1B4CAE2B0C59F6160
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Game.BP_RankUI_Game_C:WidgetTree.LevelText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Game.BP_RankUI_Game_C:WidgetTree.LevelText.Text
+msgctxt ",E98056D94092D0A1B4CAE2B0C59F6160"
+msgid "等级榜"
+msgstr ""
+
+#. Key:	E9FE47D243E2016AD4682E965191861D
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.微信排行文字.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI.BP_RankUI_C:WidgetTree.微信排行文字.Text
+msgctxt ",E9FE47D243E2016AD4682E965191861D"
+msgid "好友排行榜"
+msgstr ""
+
+#. Key:	EA100D2C450EF8AB9F8D5F8C7875474F
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.UI_Widget_Common_Text_01_6.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.UI_Widget_Common_Text_01_6.Text
+msgctxt ",EA100D2C450EF8AB9F8D5F8C7875474F"
+msgid "更多游戏"
+msgstr ""
+
+#. Key:	EB2AB1D44AA4F4524D833695A7E096F2
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_PlayerName.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_PlayerName.Text
+msgctxt ",EB2AB1D44AA4F4524D833695A7E096F2"
+msgid "玩家名字七个字"
+msgstr ""
+
+#. Key:	EB79571F4695A366C4EAFBAFA0866A45
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.More_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.More_Text.Text
+msgctxt ",EB79571F4695A366C4EAFBAFA0866A45"
+msgid "..."
+msgstr ""
+
+#. Key:	EB91C60744A1B65BAD292C80950F8939
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_96.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_96.Text
+msgctxt ",EB91C60744A1B65BAD292C80950F8939"
+msgid "BP奖励"
+msgstr ""
+
+#. Key:	F098809B4D4583990183E2AFC85B7267
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_4.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_双奖励横屏.模板_双奖励横屏_C:WidgetTree.TextBlock_4.Text
+msgctxt ",F098809B4D4583990183E2AFC85B7267"
+msgid "赛季任务"
+msgstr ""
+
+#. Key:	F3340EF14607C706F50F67A6F773B3CF
+#. SourceLocation:	/MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.文本_143.Text
+#: /MiniGameProject/Runtime/BagSystem/UI/基础_背包格子.基础_背包格子_C:WidgetTree.文本_143.Text
+msgctxt ",F3340EF14607C706F50F67A6F773B3CF"
+msgid "使用"
+msgstr ""
+
+#. Key:	F8A6430E47918E2C567766BF907B37F4
+#. SourceLocation:	/MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.ActiveTask_Text.Text
+#: /MiniGameProject/Runtime/LevelBP/UI/模板_单奖励竖屏.模板_单奖励竖屏_C:WidgetTree.ActiveTask_Text.Text
+msgctxt ",F8A6430E47918E2C567766BF907B37F4"
+msgid "任务"
+msgstr ""
+
+#. Key:	FA2683C1465A0A80F4A21EAA7A69F0D1
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Game.BP_RankUI_Game_C:WidgetTree.HighScoreText.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/BP_RankUI_Game.BP_RankUI_Game_C:WidgetTree.HighScoreText.Text
+msgctxt ",FA2683C1465A0A80F4A21EAA7A69F0D1"
+msgid "总分榜"
+msgstr ""
+
+#. Key:	FDDD8D484DA10C54E718F49E8D055266
+#. SourceLocation:	/MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_Ranking.Text
+#: /MiniGameProject/Runtime/RankSystem/UI/WBP_RankRow.WBP_RankRow_C:WidgetTree.TextBlock_Ranking.Text
+msgctxt ",FDDD8D484DA10C54E718F49E8D055266"
+msgid "1"
+msgstr ""
+
+#. Key:	APIUpdate_Cancle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:86
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:86
+msgctxt "APIUpdate,APIUpdate_Cancle"
+msgid "Cancle"
+msgstr ""
+
+#. Key:	APIUpdate_RefreshNodes_Label
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:230
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:230
+msgctxt "APIUpdate,APIUpdate_RefreshNodes_Label"
+msgid "RefreshNodes"
+msgstr ""
+
+#. Key:	APIUpdate_RefreshNodes_TooTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:231
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:231
+msgctxt "APIUpdate,APIUpdate_RefreshNodes_TooTip"
+msgid "RefreshNodes"
+msgstr ""
+
+#. Key:	APIUpdate_Start
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:78
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:78
+msgctxt "APIUpdate,APIUpdate_Start"
+msgid "Start"
+msgstr ""
+
+#. Key:	APIUpdateEntryLable
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:216
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:216
+msgctxt "APIUpdate,APIUpdateEntryLable"
+msgid "API Update"
+msgstr ""
+
+#. Key:	APIUpdateEntryToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:217
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:217
+msgctxt "APIUpdate,APIUpdateEntryToolTip"
+msgid "This will be used to update all API to make sure all versions can be transfered automatically"
+msgstr ""
+
+#. Key:	EditorToolLable
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:264
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:264
+msgctxt "APIUpdate,EditorToolLable"
+msgid "EditorTool"
+msgstr ""
+
+#. Key:	ExperimentalLable
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:227
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:227
+msgctxt "APIUpdate,ExperimentalLable"
+msgid "Experimental"
+msgstr ""
+
+#. Key:	InvalidAssetData
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:36
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:36
+msgctxt "APIUpdate,InvalidAssetData"
+msgid "Invalid Asset Data"
+msgstr ""
+
+#. Key:	InvalidLogSystem
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:123
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:123
+msgctxt "APIUpdate,InvalidLogSystem"
+msgid "Can not get the totoal action count!!!"
+msgstr ""
+
+#. Key:	ProcessBarText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:128
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/Widgets/SAPIUpdateActionInspector.cpp:128
+msgctxt "APIUpdate,ProcessBarText"
+msgid "{0}/{1}"
+msgstr ""
+
+#. Key:	RefreshNodeAction_CompileBP
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:45
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:45
+msgctxt "APIUpdate,RefreshNodeAction_CompileBP"
+msgid "Compile BP {0}"
+msgstr ""
+
+#. Key:	RefreshNodeAction_End
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:64
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:64
+msgctxt "APIUpdate,RefreshNodeAction_End"
+msgid "Finish Process BP {0}"
+msgstr ""
+
+#. Key:	RefreshNodeAction_RefreshNodeBP
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:55
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:55
+msgctxt "APIUpdate,RefreshNodeAction_RefreshNodeBP"
+msgid "As the BP compile failed, stat to refresh all nodes in BP {0}"
+msgstr ""
+
+#. Key:	RefreshNodeAction_Start
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:36
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/UpdateAction/MGP_Action_RefreshNode.cpp:36
+msgctxt "APIUpdate,RefreshNodeAction_Start"
+msgid "Start to Process BP {0}"
+msgstr ""
+
+#. Key:	RefreshNodes
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:300
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:300
+msgctxt "APIUpdate,RefreshNodes"
+msgid "Refresh Nodes"
+msgstr ""
+
+#. Key:	Tool_Label
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:257
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:257
+msgctxt "APIUpdate,Tool_Label"
+msgid "Tool"
+msgstr ""
+
+#. Key:	Tool_Tip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:258
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/APIUpdate/MGP_ET_APIUpdate.cpp:258
+msgctxt "APIUpdate,Tool_Tip"
+msgid "Open all tools which will be used by user"
+msgstr ""
+
+#. Key:	AssetTool
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:43
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:43
+msgctxt "AssetDependenciesTool,AssetTool"
+msgid "AssetTool"
+msgstr ""
+
+#. Key:	EditorRefProjectAssets
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:47
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:47
+msgctxt "AssetDependenciesTool,EditorRefProjectAssets"
+msgid "列出资产对项目目录资产的依赖"
+msgstr ""
+
+#. Key:	EditorRefProjectAssets_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:48
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:48
+msgctxt "AssetDependenciesTool,EditorRefProjectAssets_Tooltip"
+msgid "列出资产对项目目录资产的依赖"
+msgstr ""
+
+#. Key:	EdtiorAssets1
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:74
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:74
+msgctxt "AssetDependenciesTool,EdtiorAssets1"
+msgid "编辑器资产"
+msgstr ""
+
+#. Key:	EdtiorAssets2
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:77
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:77
+msgctxt "AssetDependenciesTool,EdtiorAssets2"
+msgid "引用了"
+msgstr ""
+
+#. Key:	EdtiorAssets3
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:78
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:78
+msgctxt "AssetDependenciesTool,EdtiorAssets3"
+msgid "{0}个项目资产, 分别是"
+msgstr ""
+
+#. Key:	EdtiorAssets4
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:84
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:84
+msgctxt "AssetDependenciesTool,EdtiorAssets4"
+msgid "{0};"
+msgstr ""
+
+#. Key:	ExportRefNonEngineAssets
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:62
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/AssetDependencyTool.cpp:62
+msgctxt "AssetDependenciesTool,ExportRefNonEngineAssets"
+msgid "检查资产对项目目录资产的依赖"
+msgstr ""
+
+#. Key:	FAssetTypeActions_UBPScirptBase
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/AssetTypeActions_BPScriptBase.cpp:18
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/AssetTypeActions_BPScriptBase.cpp:18
+msgctxt "AssetTypeActions,FAssetTypeActions_UBPScirptBase"
+msgid "Progress Widget"
+msgstr ""
+
+#. Key:	DebugObjectNothingSelected
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:369
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:369
+msgctxt "BlueprintEditor,DebugObjectNothingSelected"
+msgid "No debug object selected"
+msgstr ""
+
+#. Key:	DebugObjectSelected
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:948
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:948
+msgctxt "BlueprintEditor,DebugObjectSelected"
+msgid "selected"
+msgstr ""
+
+#. Key:	DebugObjectSpawned
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:938
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:938
+msgctxt "BlueprintEditor,DebugObjectSpawned"
+msgid "spawned"
+msgstr ""
+
+#. Key:	DebugWorldClient
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:508
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:508
+msgctxt "BlueprintEditor,DebugWorldClient"
+msgid "Client"
+msgstr ""
+
+#. Key:	DebugWorldDedicatedServer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:502
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:502
+msgctxt "BlueprintEditor,DebugWorldDedicatedServer"
+msgid "Dedicated Server"
+msgstr ""
+
+#. Key:	DebugWorldListenServer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:498
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:498
+msgctxt "BlueprintEditor,DebugWorldListenServer"
+msgid "Listen Server"
+msgstr ""
+
+#. Key:	DebugWorldNothingSelected
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:374
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:374
+msgctxt "BlueprintEditor,DebugWorldNothingSelected"
+msgid "All Worlds"
+msgstr ""
+
+#. Key:	DebugWorldServer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:926
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:926
+msgctxt "BlueprintEditor,DebugWorldServer"
+msgid "Server"
+msgstr "服务器设置"
+
+#. Key:	DebugWorldStandalone
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:494
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:494
+msgctxt "BlueprintEditor,DebugWorldStandalone"
+msgid "Standalone"
+msgstr ""
+
+#. Key:	ClickOnlineDocText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:92
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:92
+msgctxt "BlueprintTemplateFactory,ClickOnlineDocText"
+msgid "点击打开在线文档"
+msgstr ""
+
+#. Key:	CreateBlueprintTemaplateButtonCancel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:222
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:222
+msgctxt "BlueprintTemplateFactory,CreateBlueprintTemaplateButtonCancel"
+msgid "Cancel"
+msgstr ""
+
+#. Key:	CreateBlueprintTemaplateButtonOk
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:214
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:214
+msgctxt "BlueprintTemplateFactory,CreateBlueprintTemaplateButtonOk"
+msgid "OK"
+msgstr ""
+
+#. Key:	CreateBlueprintTemplateTitleKey
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:238
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:238
+msgctxt "BlueprintTemplateFactory,CreateBlueprintTemplateTitleKey"
+msgid "Create Blueprint Template"
+msgstr ""
+
+#. Key:	ParentClass
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:317
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/BlueprintTemplateFactory.cpp:317
+msgctxt "BlueprintTemplateFactory,ParentClass"
+msgid "Parent Class:"
+msgstr ""
+
+#. Key:	OnSaveCharacter_Title
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/Preview/CharacterCreatorViewportClient.cpp:99
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/Preview/CharacterCreatorViewportClient.cpp:99
+msgctxt "CharacterCreatorViewport,OnSaveCharacter_Title"
+msgid "Create New MiniGameCharacter Blueprint"
+msgstr ""
+
+#. Key:	AssetAlreadyExists
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:165
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:165
+msgctxt "ContentAssetTool,AssetAlreadyExists"
+msgid "Asset {0} already exists."
+msgstr ""
+
+#. Key:	Cancel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:108
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:108
+msgctxt "ContentAssetTool,Cancel"
+msgid "Cancel"
+msgstr ""
+
+#. Key:	Name
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:76
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:76
+msgctxt "ContentAssetTool,Name"
+msgid "Name"
+msgstr ""
+
+#. Key:	OK
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:100
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ContentAssetTool.cpp:100
+msgctxt "ContentAssetTool,OK"
+msgid "OK"
+msgstr ""
+
+#. Key:	CharacterCreator
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreatorCommands.h:15
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreatorCommands.h:15
+msgctxt "Contexts,CharacterCreator"
+msgid "CharacterCreator Plugin"
+msgstr ""
+
+#. Key:	MiniGame3DLayer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.h:22
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.h:22
+msgctxt "Contexts,MiniGame3DLayer"
+msgid "MiniGame3DLayer Plugin"
+msgstr ""
+
+#. Key:	Custom Tab
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/BPScriptEditor.cpp:27
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/BPScriptEditor.cpp:27
+msgctxt "CustomAssetEditor,Custom Tab"
+msgid "CustomAsset Custom Tab"
+msgstr ""
+
+#. Key:	WorkspaceMenu_CustomAssetEditor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/BPScriptEditor.cpp:24
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/BPScriptEditor.cpp:24
+msgctxt "CustomAssetEditor,WorkspaceMenu_CustomAssetEditor"
+msgid "CustomAsset Editor"
+msgstr ""
+
+#. Key:	ContextMenu.Delete
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1143
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1143
+msgctxt "EditActiveSkillModify,ContextMenu.Delete"
+msgid "删除"
+msgstr ""
+
+#. Key:	ContextMenu.Duplicate
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1150
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1150
+msgctxt "EditActiveSkillModify,ContextMenu.Duplicate"
+msgid "复制"
+msgstr ""
+
+#. Key:	ContextMenu.Insert
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1136
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1136
+msgctxt "EditActiveSkillModify,ContextMenu.Insert"
+msgid "插入"
+msgstr ""
+
+#. Key:	API
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:65
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:65
+msgctxt "ExportAPITool,API"
+msgid "API"
+msgstr ""
+
+#. Key:	ExportActionInfo
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:89
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:89
+msgctxt "ExportAPITool,ExportActionInfo"
+msgid "统计新增加节点"
+msgstr ""
+
+#. Key:	ExportActionInfo_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:90
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:90
+msgctxt "ExportAPITool,ExportActionInfo_Tooltip"
+msgid "导出不在DT_BlueprintActionsOverrideConfig表里的所有节点，只用导出C++的CallFunction节点"
+msgstr ""
+
+#. Key:	ExportAPITool
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:69
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:69
+msgctxt "ExportAPITool,ExportAPITool"
+msgid "Export API"
+msgstr ""
+
+#. Key:	ExportAPITool_ExceptBP
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:79
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:79
+msgctxt "ExportAPITool,ExportAPITool_ExceptBP"
+msgid "Export API(BlueprintCallable)"
+msgstr ""
+
+#. Key:	ExportAPITool_ExceptBP_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:80
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:80
+msgctxt "ExportAPITool,ExportAPITool_ExceptBP_Tooltip"
+msgid "Export All MiniGame Project functions and properties.Except BlueprintCallable"
+msgstr ""
+
+#. Key:	ExportAPITool_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:70
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:70
+msgctxt "ExportAPITool,ExportAPITool_Tooltip"
+msgid "Export All MiniGame Project functions and properties."
+msgstr ""
+
+#. Key:	ExportlightgameBlueprintNode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:99
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:99
+msgctxt "ExportAPITool,ExportlightgameBlueprintNode"
+msgid "导出项目蓝图节点"
+msgstr ""
+
+#. Key:	ExportlightgameBlueprintNode_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:100
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:100
+msgctxt "ExportAPITool,ExportlightgameBlueprintNode_Tooltip"
+msgid "导出项目蓝图里所有的节点。"
+msgstr ""
+
+#. Key:	RfreshLogicItemBlueprintNode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:109
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:109
+msgctxt "ExportAPITool,RfreshLogicItemBlueprintNode"
+msgid "刷新交互物蓝图"
+msgstr ""
+
+#. Key:	RfreshLogicItemBlueprintNode_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:110
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ContentAsset/ExportAPITool.cpp:110
+msgctxt "ExportAPITool,RfreshLogicItemBlueprintNode_Tooltip"
+msgid "刷新数据编辑器里所有交互物蓝图。"
+msgstr ""
+
+#. Key:	CharacterCreatorTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:120
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:120
+msgctxt "FCharacterCreatorModule,CharacterCreatorTitle"
+msgid "Character Creator"
+msgstr ""
+
+#. Key:	FCharacterToolTabTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:47
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:47
+msgctxt "FCharacterCreatorModule,FCharacterToolTabTitle"
+msgid "CharacterCreator"
+msgstr ""
+
+#. Key:	PreviewWorld
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:31
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:31
+msgctxt "FCharacterCreatorModule,PreviewWorld"
+msgid "Preview"
+msgstr ""
+
+#. Key:	Tools
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:86
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:86
+msgctxt "FCharacterCreatorModule,Tools"
+msgid "工具"
+msgstr ""
+
+#. Key:	Tools_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:87
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreator.cpp:87
+msgctxt "FCharacterCreatorModule,Tools_Tooltip"
+msgid "工具"
+msgstr ""
+
+#. Key:	MiniGameProjectSetting
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/GDAM_ProjectSetting.cpp:133
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/GDAM_ProjectSetting.cpp:133
+msgctxt "FGDAM_ProjectSetting,MiniGameProjectSetting"
+msgid "MiniGameProjectSetting"
+msgstr ""
+
+#. Key:	WorkspaceMenu_GameData
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/GDAM_ProjectSetting.cpp:33
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/GDAM_ProjectSetting.cpp:33
+msgctxt "FGDAM_ProjectSetting,WorkspaceMenu_GameData"
+msgid "Game Data Editor"
+msgstr ""
+
+#. Key:	3DLayerectionHeader
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:435
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:435
+msgctxt "FMiniGame3DLayerCommandModule,3DLayerectionHeader"
+msgid "3DLayer Actions"
+msgstr ""
+
+#. Key:	AxisLabel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:281
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:281
+msgctxt "FMiniGame3DLayerCommandModule,AxisLabel"
+msgid "None"
+msgstr ""
+
+#. Key:	EditMode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:300
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:300
+msgctxt "FMiniGame3DLayerCommandModule,EditMode"
+msgid "None"
+msgstr ""
+
+#. Key:	LayerText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:604
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:604
+msgctxt "FMiniGame3DLayerCommandModule,LayerText"
+msgid "None"
+msgstr ""
+
+#. Key:	FMiniGame3DLayerTabTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayer.cpp:38
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayer.cpp:38
+msgctxt "FMiniGame3DLayerModule,FMiniGame3DLayerTabTitle"
+msgid "3DLayer"
+msgstr ""
+
+#. Key:	ClientModeButtonTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:122
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:122
+msgctxt "FProcessBPEditorToolbar,ClientModeButtonTooltip"
+msgid "Switch to Client Mode"
+msgstr ""
+
+#. Key:	OpenWidgetReflector
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:170
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:170
+msgctxt "FProcessBPEditorToolbar,OpenWidgetReflector"
+msgid "Widget Reflector"
+msgstr ""
+
+#. Key:	OpenWidgetReflectorToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:171
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:171
+msgctxt "FProcessBPEditorToolbar,OpenWidgetReflectorToolTip"
+msgid "Opens the Widget Reflector, a handy tool for diagnosing problems with live widgets."
+msgstr ""
+
+#. Key:	ServerModeButtonTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:141
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorToolbar.cpp:141
+msgctxt "FProcessBPEditorToolbar,ServerModeButtonTooltip"
+msgid "Switch to Server Mode"
+msgstr ""
+
+#. Key:	GameModeEditor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:48
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:48
+msgctxt "GameModeEditor,GameModeEditor"
+msgid "Level List"
+msgstr ""
+
+#. Key:	GameModeEditorTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:49
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:49
+msgctxt "GameModeEditor,GameModeEditorTooltip"
+msgid "Open Asset GameMode Editor"
+msgstr ""
+
+#. Key:	PlacementBrowserTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:116
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:116
+msgctxt "GameModeEditor,PlacementBrowserTitle"
+msgid "GameMode Editor"
+msgstr ""
+
+#. Key:	BlueprintDebugObjectTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:311
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:311
+msgctxt "GDAM_LogicBlueprint,BlueprintDebugObjectTooltip"
+msgid "Select an object to debug, if set to none will debug any object"
+msgstr ""
+
+#. Key:	BlueprintDebugWorldTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:298
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:298
+msgctxt "GDAM_LogicBlueprint,BlueprintDebugWorldTooltip"
+msgid "Select a world to debug, will filter what to debug if no specific object selected"
+msgstr ""
+
+#. Key:	DebugSelectActor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:382
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:382
+msgctxt "GDAM_LogicBlueprint,DebugSelectActor"
+msgid "Select this Actor in level"
+msgstr ""
+
+#. Key:	DebugSelectTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:442
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:442
+msgctxt "GDAM_LogicBlueprint,DebugSelectTitle"
+msgid "Debug Filter"
+msgstr ""
+
+#. Key:	WorkspaceMenu_GameData_LogicBlueprint
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:64
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/GDAM_LogicBlueprint.cpp:64
+msgctxt "GDAM_LogicBlueprint,WorkspaceMenu_GameData_LogicBlueprint"
+msgid "Game Data Editor for logic blueprint"
+msgstr ""
+
+#. Key:	ChangeNameListPinValue
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2BlueprintGraphGameDataVariablePinFactory.h:93
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2BlueprintGraphGameDataVariablePinFactory.h:93
+msgctxt "GraphEditor,ChangeNameListPinValue"
+msgid "Change Name List Pin Value"
+msgstr ""
+
+#. Key:	ChangeNameListPinValue_Attribute
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2BlueprintGraph_MiniGameSkill_AttributePinFactory.cpp:67
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2BlueprintGraph_MiniGameSkill_AttributePinFactory.cpp:67
+msgctxt "GraphEditor,ChangeNameListPinValue_Attribute"
+msgid "Change Attribute List Pin Value"
+msgstr ""
+
+#. Key:	InteractorMoveTo_Category
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorMoveTo.cpp:41
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorMoveTo.cpp:41
+msgctxt "K2Node,InteractorMoveTo_Category"
+msgid "Interactor"
+msgstr ""
+
+#. Key:	InteractorMoveTo_Title
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorMoveTo.cpp:36
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorMoveTo.cpp:36
+msgctxt "K2Node,InteractorMoveTo_Title"
+msgid "InteractorMoveTo"
+msgstr ""
+
+#. Key:	InvalidCondition
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:213
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:213
+msgctxt "K2Node,InvalidCondition"
+msgid "范围筛选节点中一个范围都没有！"
+msgstr ""
+
+#. Key:	K2Node_InteractorMoveTo_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorMoveTo.cpp:31
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorMoveTo.cpp:31
+msgctxt "K2Node,K2Node_InteractorMoveTo_Tooltip"
+msgid "Interactor Move to a target"
+msgstr ""
+
+#. Key:	K2Node_PlaySeqAnim_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_PlaySeqAnim.cpp:18
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_PlaySeqAnim.cpp:18
+msgctxt "K2Node,K2Node_PlaySeqAnim_Tooltip"
+msgid "Plays a Montage on a SkeletalMeshComponent"
+msgstr ""
+
+#. Key:	PlaySeqAnim
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_PlaySeqAnim.cpp:23
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_PlaySeqAnim.cpp:23
+msgctxt "K2Node,PlaySeqAnim"
+msgid "Play SeqAnimation"
+msgstr ""
+
+#. Key:	PlaySeqAnimCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_PlaySeqAnim.cpp:28
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_PlaySeqAnim.cpp:28
+msgctxt "K2Node,PlaySeqAnimCategory"
+msgid "Animation|Sequence"
+msgstr ""
+
+#. Key:	CharacterEnterAreaEvent_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterEnterAreaEvent.cpp:113
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterEnterAreaEvent.cpp:113
+msgctxt "K2Node_CharacterEnterAreaEvent,CharacterEnterAreaEvent_Tooltip"
+msgid "CharacterEnterAreaEvent."
+msgstr ""
+
+#. Key:	CharacterEnterAreaEvent_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterExitAreaEvent.cpp:113
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterExitAreaEvent.cpp:113
+msgctxt "K2Node_CharacterExitAreaEvent,CharacterEnterAreaEvent_Tooltip"
+msgid "CharacterEnterAreaEvent."
+msgstr ""
+
+#. Key:	CloudVariableName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariable.cpp:21
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariable.cpp:21
+msgctxt "K2Node_CloudVariable,CloudVariableName"
+msgid "云变量名"
+msgstr ""
+
+#. Key:	Data Reporting Node Title
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:51
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:51
+msgctxt "K2Node_DataReport,Data Reporting Node Title"
+msgid "数据埋点上报"
+msgstr ""
+
+#. Key:	Data Reporting Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:46
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:46
+msgctxt "K2Node_DataReport,Data Reporting Tooltip"
+msgid "数据埋点上报：根据选择的枚举，填充相应数据进行上报"
+msgstr ""
+
+#. Key:	DataReportingMenuCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:56
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:56
+msgctxt "K2Node_DataReport,DataReportingMenuCategory"
+msgid "数据埋点上报"
+msgstr ""
+
+#. Key:	DataReportingType
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:16
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:16
+msgctxt "K2Node_DataReport,DataReportingType"
+msgid "数据埋点类型"
+msgstr ""
+
+#. Key:	Error_CannotFindPin
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:264
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:264
+msgctxt "K2Node_DataReport,Error_CannotFindPin"
+msgid "CannotFindPin ParamName '{0}'"
+msgstr ""
+
+#. Key:	Error_DonotSupportPinType
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:313
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/DataReporting/K2Node_DataReport.cpp:313
+msgctxt "K2Node_DataReport,Error_DonotSupportPinType"
+msgid "ParamName '{0}', PinType '{1}', ParamType '{2}'"
+msgstr ""
+
+#. Key:	AddPin
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:574
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:574
+msgctxt "K2Node_FixEaseFunction,AddPin"
+msgid "Reset to Wildcards"
+msgstr ""
+
+#. Key:	AddPinTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:575
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:575
+msgctxt "K2Node_FixEaseFunction,AddPinTooltip"
+msgid "Resets A, B and Results pins to its default wildcard state"
+msgstr ""
+
+#. Key:	AlphaPinTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:113
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:113
+msgctxt "K2Node_FixEaseFunction,AlphaPinTooltip"
+msgid "Alpha value used to specify the easing in time."
+msgstr ""
+
+#. Key:	APinDescription
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:117
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:117
+msgctxt "K2Node_FixEaseFunction,APinDescription"
+msgid "Easing start value"
+msgstr ""
+
+#. Key:	BlendExpPinDescription
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:132
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:132
+msgctxt "K2Node_FixEaseFunction,BlendExpPinDescription"
+msgid "Blend Exponent for basic ease functions"
+msgstr ""
+
+#. Key:	BPinDescription
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:120
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:120
+msgctxt "K2Node_FixEaseFunction,BPinDescription"
+msgid "Easing end value"
+msgstr ""
+
+#. Key:	ContextMenuHeader
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:571
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:571
+msgctxt "K2Node_FixEaseFunction,ContextMenuHeader"
+msgid "FixEase"
+msgstr ""
+
+#. Key:	EaseFunsPinDescription
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:102
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:102
+msgctxt "K2Node_FixEaseFunction,EaseFunsPinDescription"
+msgid "Specifies the desired ease function to be applied. If connected no customization is possible."
+msgstr ""
+
+#. Key:	FixEaseFunction_Title
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:167
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:167
+msgctxt "K2Node_FixEaseFunction,FixEaseFunction_Title"
+msgid "FixEase"
+msgstr ""
+
+#. Key:	InterpCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:303
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:303
+msgctxt "K2Node_FixEaseFunction,InterpCategory"
+msgid "Interpolation"
+msgstr ""
+
+#. Key:	InvalidFunctionName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:427
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:427
+msgctxt "K2Node_FixEaseFunction,InvalidFunctionName"
+msgid "BaseAsyncTask: Type not supported or not initialized. @@"
+msgstr ""
+
+#. Key:	NodeTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:87
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:87
+msgctxt "K2Node_FixEaseFunction,NodeTooltip"
+msgid "Interpolates from value A to value B using a user specified easing function"
+msgstr ""
+
+#. Key:	PinConnectionDisallowed
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:269
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:269
+msgctxt "K2Node_FixEaseFunction,PinConnectionDisallowed"
+msgid "Pin type is not supported by function."
+msgstr ""
+
+#. Key:	ResetToDefaultsTx
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:543
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:543
+msgctxt "K2Node_FixEaseFunction,ResetToDefaultsTx"
+msgid "ResetToDefaults"
+msgstr ""
+
+#. Key:	ResultPinDescription
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:123
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:123
+msgctxt "K2Node_FixEaseFunction,ResultPinDescription"
+msgid "Easing result value"
+msgstr ""
+
+#. Key:	ShortestPathPinTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:126
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:126
+msgctxt "K2Node_FixEaseFunction,ShortestPathPinTooltip"
+msgid "When interpolating the shortest path should be taken."
+msgstr ""
+
+#. Key:	StepsPinDescription
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:147
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_FixEaseFunction.cpp:147
+msgctxt "K2Node_FixEaseFunction,StepsPinDescription"
+msgid "Number of steps required to go from A to B"
+msgstr ""
+
+#. Key:	VariableName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:28
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:28
+msgctxt "K2Node_GetGameData,VariableName"
+msgid "VariableName"
+msgstr ""
+
+#. Key:	InvalidFunctionName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelCharacter.cpp:50
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelCharacter.cpp:50
+msgctxt "K2Node_GetLevelCharacter,InvalidFunctionName"
+msgid "BaseAsyncTask: Type not supported or not initialized. @@"
+msgstr ""
+
+#. Key:	InvalidFunctionName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelInteractor.cpp:51
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelInteractor.cpp:51
+msgctxt "K2Node_GetLevelInteractor,InvalidFunctionName"
+msgid "BaseAsyncTask: Type not supported or not initialized. @@"
+msgstr ""
+
+#. Key:	AddLogicEditorEvent_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_LogicEditorEvent.cpp:104
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_LogicEditorEvent.cpp:104
+msgctxt "K2Node_LogicEditorEvent,AddLogicEditorEvent_Tooltip"
+msgid "An event with logic name and parameters."
+msgstr ""
+
+#. Key:	SpawnLogicObject_Error
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:246
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:246
+msgctxt "K2Node_SpawnLogicObject,SpawnLogicObject_Error"
+msgid "GameData can not find variable {0} specified."
+msgstr ""
+
+#. Key:	MakeRegionHeader
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:233
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:233
+msgctxt "K2Nodes,MakeRegionHeader"
+msgid "MakeRegion"
+msgstr ""
+
+#. Key:	RemovePin
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:239
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:239
+msgctxt "K2Nodes,RemovePin"
+msgid "移除范围"
+msgstr ""
+
+#. Key:	RemovePinTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:240
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/ActorTargeting/K2Node_FindTargetActors.cpp:240
+msgctxt "K2Nodes,RemovePinTooltip"
+msgid "移除范围"
+msgstr ""
+
+#. Key:	PlacementBrowserTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:2089
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:2089
+msgctxt "LevelList,PlacementBrowserTitle"
+msgid "关卡列表"
+msgstr ""
+
+#. Key:	LevelEditor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:16
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:16
+msgctxt "LevelListActions,LevelEditor"
+msgid "Level List"
+msgstr ""
+
+#. Key:	LevelEditorItem
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:33
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:33
+msgctxt "LevelListActions,LevelEditorItem"
+msgid "Level ListItem"
+msgstr ""
+
+#. Key:	Config Level
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1385
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1385
+msgctxt "LevelListWidget,Config Level"
+msgid "关卡配置"
+msgstr ""
+
+#. Key:	DefaultState
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1080
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1080
+msgctxt "LevelListWidget,DefaultState"
+msgid "默认阶段"
+msgstr ""
+
+#. Key:	DeleteGroup
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:894
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:894
+msgctxt "LevelListWidget,DeleteGroup"
+msgid "删除分组"
+msgstr ""
+
+#. Key:	DeleteGroupDesc
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:893
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:893
+msgctxt "LevelListWidget,DeleteGroupDesc"
+msgid "确认删除该分组，删除后，分组内关卡将放入默认组"
+msgstr ""
+
+#. Key:	DeleteLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:591
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:591
+msgctxt "LevelListWidget,DeleteLevel"
+msgid "删除关卡"
+msgstr ""
+
+#. Key:	DuplicateLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:605
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:605
+msgctxt "LevelListWidget,DuplicateLevel"
+msgid "创建副本"
+msgstr ""
+
+#. Key:	Edit
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1653
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1653
+msgctxt "LevelListWidget,Edit"
+msgid "编辑"
+msgstr ""
+
+#. Key:	Edit Logic
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1368
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1368
+msgctxt "LevelListWidget,Edit Logic"
+msgid "逻辑编写"
+msgstr ""
+
+#. Key:	LevelList
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1995
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1995
+msgctxt "LevelListWidget,LevelList"
+msgid "关卡列表"
+msgstr ""
+
+#. Key:	LevelListTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1996
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1996
+msgctxt "LevelListWidget,LevelListTooltip"
+msgid "Open Asset Level List Editor, The first Level will be selected by default."
+msgstr ""
+
+#. Key:	LocateCurrenLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:467
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:467
+msgctxt "LevelListWidget,LocateCurrenLevel"
+msgid "定位到当前关卡"
+msgstr ""
+
+#. Key:	Main Level Text
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:154
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:154
+msgctxt "LevelListWidget,Main Level Text"
+msgid "大厅关卡"
+msgstr ""
+
+#. Key:	MainUI
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1612
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1612
+msgctxt "LevelListWidget,MainUI"
+msgid "主要UI"
+msgstr ""
+
+#. Key:	MoveLevelTo
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1115
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1115
+msgctxt "LevelListWidget,MoveLevelTo"
+msgid "移动至"
+msgstr ""
+
+#. Key:	New
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1670
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1670
+msgctxt "LevelListWidget,New"
+msgid "New"
+msgstr ""
+
+#. Key:	NewGameMode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1344
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1344
+msgctxt "LevelListWidget,NewGameMode"
+msgid "新建"
+msgstr ""
+
+#. Key:	NewGroup
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:984
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:984
+msgctxt "LevelListWidget,NewGroup"
+msgid "新建"
+msgstr ""
+
+#. Key:	NewLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:449
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:449
+msgctxt "LevelListWidget,NewLevel"
+msgid "新建关卡"
+msgstr ""
+
+#. Key:	NewMainUI
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1637
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1637
+msgctxt "LevelListWidget,NewMainUI"
+msgid "新建"
+msgstr ""
+
+#. Key:	OpenLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:631
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:631
+msgctxt "LevelListWidget,OpenLevel"
+msgid "打开关卡"
+msgstr ""
+
+#. Key:	RenameGroup
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:997
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:997
+msgctxt "LevelListWidget,RenameGroup"
+msgid "重命名"
+msgstr ""
+
+#. Key:	RenameLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1114
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1114
+msgctxt "LevelListWidget,RenameLevel"
+msgid "重命名"
+msgstr ""
+
+#. Key:	SLevelListWidget
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1846
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1846
+msgctxt "LevelListWidget,SLevelListWidget"
+msgid "Create New Blueprint"
+msgstr ""
+
+#. Key:	AddUIButtonText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:152
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:152
+msgctxt "MatchmakingConfig_Customization,AddUIButtonText"
+msgid "+ 界面"
+msgstr ""
+
+#. Key:	CopyButtonText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:120
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:120
+msgctxt "MatchmakingConfig_Customization,CopyButtonText"
+msgid "复制模版"
+msgstr ""
+
+#. Key:	CustomSeparatorText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:135
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:135
+msgctxt "MatchmakingConfig_Customization,CustomSeparatorText"
+msgid "自定义样式"
+msgstr ""
+
+#. Key:	HideUmgButtonText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:466
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:466
+msgctxt "MatchmakingConfig_Customization,HideUmgButtonText"
+msgid "隐藏样式"
+msgstr ""
+
+#. Key:	ShowUmgButtonText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:466
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:466
+msgctxt "MatchmakingConfig_Customization,ShowUmgButtonText"
+msgid "显示样式"
+msgstr ""
+
+#. Key:	TemplateSeparatorText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:94
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MatchmakingConfig_DetailCustomization.cpp:94
+msgctxt "MatchmakingConfig_Customization,TemplateSeparatorText"
+msgid "模版选择"
+msgstr ""
+
+#. Key:	MessageTagWidget_Msg
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/SDynamicCastScriptGraphPin.cpp:76
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/SDynamicCastScriptGraphPin.cpp:76
+msgctxt "MessageTagGraphPin,MessageTagWidget_Msg"
+msgid "EventName"
+msgstr ""
+
+#. Key:	About
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/LightGameBoxSetting_DetailCustomization.cpp:32
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/LightGameBoxSetting_DetailCustomization.cpp:32
+msgctxt "MiniGameEditor,About"
+msgid "About"
+msgstr "概述"
+
+#. Key:	Add System
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:246
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:246
+msgctxt "MiniGameEditor,Add System"
+msgid "Add System"
+msgstr ""
+
+#. Key:	Added Function
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:526
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:526
+msgctxt "MiniGameEditor,Added Function"
+msgid "已添加功能"
+msgstr ""
+
+#. Key:	Appearance
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGamePorjectMapsSetting_DetailCustomization.cpp:53
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGamePorjectMapsSetting_DetailCustomization.cpp:53
+msgctxt "MiniGameEditor,Appearance"
+msgid "Appearance"
+msgstr ""
+
+#. Key:	Back
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:84
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:84
+msgctxt "MiniGameEditor,Back"
+msgid "Back"
+msgstr ""
+
+#. Key:	Cfg_Data
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:1054
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:1054
+msgctxt "MiniGameEditor,Cfg_Data"
+msgid "Cfg_Data"
+msgstr ""
+
+#. Key:	Cfg_Data_Label
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:243
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:243
+msgctxt "MiniGameEditor,Cfg_Data_Label"
+msgid "查询游戏配置"
+msgstr ""
+
+#. Key:	Cfg_Data_TooTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:244
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:244
+msgctxt "MiniGameEditor,Cfg_Data_TooTip"
+msgid "查询打包是上传到服务器的配置"
+msgstr ""
+
+#. Key:	DefaultState
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:380
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:380
+msgctxt "MiniGameEditor,DefaultState"
+msgid "默认阶段"
+msgstr ""
+
+#. Key:	DefaultState_Common
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:372
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:372
+msgctxt "MiniGameEditor,DefaultState_Common"
+msgid "关卡基础逻辑"
+msgstr ""
+
+#. Key:	EquippedSystem
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/DefaultCategoryContent.cpp:97
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/DefaultCategoryContent.cpp:97
+msgctxt "MiniGameEditor,EquippedSystem"
+msgid "EquippedSystem"
+msgstr ""
+
+#. Key:	EquippedSystems
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:87
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:87
+msgctxt "MiniGameEditor,EquippedSystems"
+msgid "EquippedSystems"
+msgstr ""
+
+#. Key:	FunctionList
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:448
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:448
+msgctxt "MiniGameEditor,FunctionList"
+msgid "功能列表"
+msgstr ""
+
+#. Key:	InternalLable
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:236
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:236
+msgctxt "MiniGameEditor,InternalLable"
+msgid "内部"
+msgstr ""
+
+#. Key:	InternalToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:237
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/MiniGameEditor.cpp:237
+msgctxt "MiniGameEditor,InternalToolTip"
+msgid "一些内部编辑器使用功能"
+msgstr ""
+
+#. Key:	Invalid Setting
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:231
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:231
+msgctxt "MiniGameEditor,Invalid Setting"
+msgid "Invalid Setting"
+msgstr ""
+
+#. Key:	Invalid System Category
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:330
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:330
+msgctxt "MiniGameEditor,Invalid System Category"
+msgid "Invalid System Category"
+msgstr ""
+
+#. Key:	Invalid System Information
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:187
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:187
+msgctxt "MiniGameEditor,Invalid System Information"
+msgid "Invalid System Information"
+msgstr ""
+
+#. Key:	LightGameProjectThumbnailLabel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/LightGameBoxSetting_DetailCustomization.cpp:34
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/LightGameBoxSetting_DetailCustomization.cpp:34
+msgctxt "MiniGameEditor,LightGameProjectThumbnailLabel"
+msgid "Light Game Project Thumbnail"
+msgstr "轻游戏项目缩略图"
+
+#. Key:	MiniGameADSettings
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:906
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:906
+msgctxt "MiniGameEditor,MiniGameADSettings"
+msgid "广告"
+msgstr ""
+
+#. Key:	MiniGameADSettingsTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:907
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:907
+msgctxt "MiniGameEditor,MiniGameADSettingsTip"
+msgid "配置可在游戏中观看的广告"
+msgstr ""
+
+#. Key:	MiniGameAISystem
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:876
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:876
+msgctxt "MiniGameEditor,MiniGameAISystem"
+msgid "AI系统"
+msgstr ""
+
+#. Key:	MiniGameAISystemTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:877
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:877
+msgctxt "MiniGameEditor,MiniGameAISystemTip"
+msgid "原生AI系统的细节设置"
+msgstr ""
+
+#. Key:	MiniGameEditor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:810
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:810
+msgctxt "MiniGameEditor,MiniGameEditor"
+msgid "MiniGameEditor"
+msgstr ""
+
+#. Key:	MiniGameEditorCommonCommand
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/UICommands/MiniGameEditorUICommandList.cpp:10
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/UICommands/MiniGameEditorUICommandList.cpp:10
+msgctxt "MiniGameEditor,MiniGameEditorCommonCommand"
+msgid "MiniGameEditorCommonCommand"
+msgstr ""
+
+#. Key:	MiniGameEditorSettingsTabTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:686
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:686
+msgctxt "MiniGameEditor,MiniGameEditorSettingsTabTitle"
+msgid "MiniGame Editor Settings"
+msgstr ""
+
+#. Key:	MiniGameEditorTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:811
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:811
+msgctxt "MiniGameEditor,MiniGameEditorTip"
+msgid "Show the content for the mini game's editor setting"
+msgstr ""
+
+#. Key:	MiniGameInput
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:729
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:729
+msgctxt "MiniGameEditor,MiniGameInput"
+msgid "Input"
+msgstr "输入设置"
+
+#. Key:	MiniGameInputTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:730
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:730
+msgctxt "MiniGameEditor,MiniGameInputTip"
+msgid "Show the input configuration for input"
+msgstr ""
+
+#. Key:	MiniGameLevelSettings
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:721
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:721
+msgctxt "MiniGameEditor,MiniGameLevelSettings"
+msgid "LevelSettings"
+msgstr "关卡设置"
+
+#. Key:	MiniGameLevelSettingsTips
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:722
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:722
+msgctxt "MiniGameEditor,MiniGameLevelSettingsTips"
+msgid "Show the input configuration for default level"
+msgstr "默认关卡的输入配置"
+
+#. Key:	MiniGameLogin
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:753
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:753
+msgctxt "MiniGameEditor,MiniGameLogin"
+msgid "Login"
+msgstr "登入设置"
+
+#. Key:	MiniGameLoginTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:754
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:754
+msgctxt "MiniGameEditor,MiniGameLoginTip"
+msgid "Show the Login configuration for Login"
+msgstr ""
+
+#. Key:	MiniGameplay
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:761
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:761
+msgctxt "MiniGameEditor,MiniGameplay"
+msgid "玩法设置"
+msgstr ""
+
+#. Key:	MiniGameplayTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:762
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:762
+msgctxt "MiniGameEditor,MiniGameplayTip"
+msgid "Show the gameplay config"
+msgstr ""
+
+#. Key:	MiniGameProjectAD
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:745
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:745
+msgctxt "MiniGameEditor,MiniGameProjectAD"
+msgid "ADSettings"
+msgstr "广告设置"
+
+#. Key:	MiniGameProjectADTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:746
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:746
+msgctxt "MiniGameEditor,MiniGameProjectADTip"
+msgid "Show the AD configuration for project AD"
+msgstr ""
+
+#. Key:	MiniGameProjectBase
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:713
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:713
+msgctxt "MiniGameEditor,MiniGameProjectBase"
+msgid "MiniGameProjectBase"
+msgstr "轻游戏基础设置"
+
+#. Key:	MiniGameProjectBaseTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:714
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:714
+msgctxt "MiniGameEditor,MiniGameProjectBaseTip"
+msgid "MiniGameProjectBase"
+msgstr "轻游戏基础设置"
+
+#. Key:	MiniGameProjectGameplayTag
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:891
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:891
+msgctxt "MiniGameEditor,MiniGameProjectGameplayTag"
+msgid "玩法标签"
+msgstr ""
+
+#. Key:	MiniGameProjectGameplayTagTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:892
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:892
+msgctxt "MiniGameEditor,MiniGameProjectGameplayTagTip"
+msgid "可设置树状结构的标签"
+msgstr ""
+
+#. Key:	MiniGameProjectSettingAddFunctionButton
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:500
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:500
+msgctxt "MiniGameEditor,MiniGameProjectSettingAddFunctionButton"
+msgid "添加功能"
+msgstr ""
+
+#. Key:	MiniGameProjectSettingAddSystemButton
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:108
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:108
+msgctxt "MiniGameEditor,MiniGameProjectSettingAddSystemButton"
+msgid "AddSystem"
+msgstr ""
+
+#. Key:	MiniGameServer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:770
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:770
+msgctxt "MiniGameEditor,MiniGameServer"
+msgid "Server"
+msgstr ""
+
+#. Key:	MiniGameServerTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:771
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:771
+msgctxt "MiniGameEditor,MiniGameServerTip"
+msgid "Show the Login configuration for Login"
+msgstr ""
+
+#. Key:	MiniGameSettingActions
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:285
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:285
+msgctxt "MiniGameEditor,MiniGameSettingActions"
+msgid "MiniGameSetting Actions"
+msgstr ""
+
+#. Key:	MiniGameSettingButtonTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:629
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:629
+msgctxt "MiniGameEditor,MiniGameSettingButtonTip"
+msgid "Open MiniGame Setting Viewer"
+msgstr "打开轻游戏设置界面"
+
+#. Key:	MiniGameSettingsTabTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:678
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:678
+msgctxt "MiniGameEditor,MiniGameSettingsTabTitle"
+msgid "MiniGame Settings"
+msgstr "小游戏设置"
+
+#. Key:	MiniGameSyncSetting
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:921
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:921
+msgctxt "MiniGameEditor,MiniGameSyncSetting"
+msgid "同步玩法"
+msgstr ""
+
+#. Key:	MiniGameSyncSettingTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:922
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:922
+msgctxt "MiniGameEditor,MiniGameSyncSettingTip"
+msgid "同步玩法的细节设置"
+msgstr ""
+
+#. Key:	ModeID
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/LightGameBoxSetting_DetailCustomization.cpp:116
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/LightGameBoxSetting_DetailCustomization.cpp:116
+msgctxt "MiniGameEditor,ModeID"
+msgid "ModeID"
+msgstr "轻游戏ID"
+
+#. Key:	No AddedItem to Show
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:557
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:557
+msgctxt "MiniGameEditor,No AddedItem to Show"
+msgid "暂无添加功能"
+msgstr ""
+
+#. Key:	No UnaddedItem to Show
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:619
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:619
+msgctxt "MiniGameEditor,No UnaddedItem to Show"
+msgid "暂无未添加功能"
+msgstr ""
+
+#. Key:	Project description has been saved
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/SectionContent/SMiniGameSettinvViewer_ProjectDescriptor.cpp:112
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/SectionContent/SMiniGameSettinvViewer_ProjectDescriptor.cpp:112
+msgctxt "MiniGameEditor,Project description has been saved"
+msgid "Project description has been saved"
+msgstr ""
+
+#. Key:	ProjectADRefresh
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/SectionContent/SMiniGameSettingViewer_ProjectADEditor.cpp:53
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/SectionContent/SMiniGameSettingViewer_ProjectADEditor.cpp:53
+msgctxt "MiniGameEditor,ProjectADRefresh"
+msgid "Refresh"
+msgstr ""
+
+#. Key:	ProjectDescriptorSave
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/SectionContent/SMiniGameSettinvViewer_ProjectDescriptor.cpp:82
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/SectionContent/SMiniGameSettinvViewer_ProjectDescriptor.cpp:82
+msgctxt "MiniGameEditor,ProjectDescriptorSave"
+msgid "Save"
+msgstr ""
+
+#. Key:	QuickSettingsCombo
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:628
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/MiniGameEditorModifier_SettingViewer.cpp:628
+msgctxt "MiniGameEditor,QuickSettingsCombo"
+msgid "Settings"
+msgstr "设置"
+
+#. Key:	Search
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:509
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:509
+msgctxt "MiniGameEditor,Search"
+msgid "搜索"
+msgstr ""
+
+#. Key:	UnAdded Function
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:588
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:588
+msgctxt "MiniGameEditor,UnAdded Function"
+msgid "未添加功能"
+msgstr ""
+
+#. Key:	Unequip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:288
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:288
+msgctxt "MiniGameEditor,Unequip"
+msgid "Unequip"
+msgstr ""
+
+#. Key:	Unequip System
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:257
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:257
+msgctxt "MiniGameEditor,Unequip System"
+msgid "Unequip System"
+msgstr ""
+
+#. Key:	Unequip this settings
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:289
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/CC_UEDefaultProjectSettingStyle.cpp:289
+msgctxt "MiniGameEditor,Unequip this settings"
+msgid "Unequip this settings which will be movied into owned scope. You still own it"
+msgstr ""
+
+#. Key:	Use Toturial
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:218
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/SettingViewer/CategoryContent/MiniGameSettingViewer_AddSystem.cpp:218
+msgctxt "MiniGameEditor,Use Toturial"
+msgid "Use Toturial"
+msgstr ""
+
+#. Key:	AttributeSet
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:313
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:313
+msgctxt "MiniGameplaySetting_DetailCustomization,AttributeSet"
+msgid "AttributeSet"
+msgstr "属性设置"
+
+#. Key:	CustomBuiltInAttributeObjectChannels
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:326
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:326
+msgctxt "MiniGameplaySetting_DetailCustomization,CustomBuiltInAttributeObjectChannels"
+msgid "内置属性"
+msgstr ""
+
+#. Key:	CustomCampObjectChannels
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:60
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:60
+msgctxt "MiniGameplaySetting_DetailCustomization,CustomCampObjectChannels"
+msgid "阵营配置"
+msgstr ""
+
+#. Key:	CustomFormulaObjectChannels
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1303
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1303
+msgctxt "MiniGameplaySetting_DetailCustomization,CustomFormulaObjectChannels"
+msgid "公式配置"
+msgstr ""
+
+#. Key:	DamageFormula
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1301
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1301
+msgctxt "MiniGameplaySetting_DetailCustomization,DamageFormula"
+msgid "DamageFormula"
+msgstr "伤害公式"
+
+#. Key:	AddPinTx
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniListenMessage.cpp:261
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniListenMessage.cpp:261
+msgctxt "MiniListenMessage,AddPinTx"
+msgid "AddPin"
+msgstr ""
+
+#. Key:	ListenMessage
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniListenMessage.cpp:251
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniListenMessage.cpp:251
+msgctxt "MiniListenMessage,ListenMessage"
+msgid "ListenMessage From Blueprint And C++"
+msgstr ""
+
+#. Key:	RemovePinTx
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniListenMessage.cpp:326
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniListenMessage.cpp:326
+msgctxt "MiniListenMessage,RemovePinTx"
+msgid "RemovePin"
+msgstr ""
+
+#. Key:	AutoCreateRefTermPin_AssignmentError
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniMessageBase.cpp:626
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniMessageBase.cpp:626
+msgctxt "MiniMessageBase,AutoCreateRefTermPin_AssignmentError"
+msgid "AutoCreateRefTerm Expansion: Assignment Error @@"
+msgstr ""
+
+#. Key:	AutoCreateRefTermPin_AssignmentError_SpawnPureVariable
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniMessageBase.cpp:1108
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniMessageBase.cpp:1108
+msgctxt "MiniMessageBase,AutoCreateRefTermPin_AssignmentError_SpawnPureVariable"
+msgid "SpawnPureVariable Expansion: Assignment Error @@"
+msgstr ""
+
+#. Key:	MiniMessageBase
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniMessageBase.cpp:811
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniMessageBase.cpp:811
+msgctxt "MiniMessageBase,MiniMessageBase"
+msgid "LogicEvent|MiniMessage"
+msgstr ""
+
+#. Key:	AddPinTx
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniNotifyMessage.cpp:131
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniNotifyMessage.cpp:131
+msgctxt "MiniNotifyMessage,AddPinTx"
+msgid "AddPin"
+msgstr ""
+
+#. Key:	NotifyMessage
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniNotifyMessage.cpp:110
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniNotifyMessage.cpp:110
+msgctxt "MiniNotifyMessage,NotifyMessage"
+msgid "NotifyMessage To Blueprint And C++"
+msgstr ""
+
+#. Key:	RemovePinTx
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniNotifyMessage.cpp:183
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MessageNode/K2Node_MiniNotifyMessage.cpp:183
+msgctxt "MiniNotifyMessage,RemovePinTx"
+msgid "RemovePin"
+msgstr ""
+
+#. Key:	Array
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:34
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:34
+msgctxt "PinTypeSelector,Array"
+msgid "Array"
+msgstr ""
+
+#. Key:	ArrayTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:760
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:760
+msgctxt "PinTypeSelector,ArrayTooltip"
+msgid "Array"
+msgstr ""
+
+#. Key:	Map
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:36
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:36
+msgctxt "PinTypeSelector,Map"
+msgid "Map"
+msgstr ""
+
+#. Key:	MapTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:762
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:762
+msgctxt "PinTypeSelector,MapTooltip"
+msgid "Map (Dictionary)"
+msgstr ""
+
+#. Key:	Set
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:35
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:35
+msgctxt "PinTypeSelector,Set"
+msgid "Set"
+msgstr ""
+
+#. Key:	SetTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:761
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:761
+msgctxt "PinTypeSelector,SetTooltip"
+msgid "Set"
+msgstr ""
+
+#. Key:	Single
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:33
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:33
+msgctxt "PinTypeSelector,Single"
+msgid "Single"
+msgstr ""
+
+#. Key:	SingleVariableTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:759
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/Modifiers/EditorStyleReplace/MGP_ChangeTypeSelectorIcon.cpp:759
+msgctxt "PinTypeSelector,SingleVariableTooltip"
+msgid "Single Variable"
+msgstr ""
+
+#. Key:	ActorEnterRegion
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:423
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:423
+msgctxt "ProcessBPEditor,ActorEnterRegion"
+msgid "{0}({1})"
+msgstr ""
+
+#. Key:	ActorExitRegion
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:429
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:429
+msgctxt "ProcessBPEditor,ActorExitRegion"
+msgid "{0}({1})"
+msgstr ""
+
+#. Key:	DefaultMode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:74
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:74
+msgctxt "ProcessBPEditor,DefaultMode"
+msgid "默认逻辑"
+msgstr ""
+
+#. Key:	GameDataLogicBP
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:76
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:76
+msgctxt "ProcessBPEditor,GameDataLogicBP"
+msgid "数据编辑器逻辑蓝图"
+msgstr ""
+
+#. Key:	GraphName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:77
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:77
+msgctxt "ProcessBPEditor,GraphName"
+msgid "GraphName Mode"
+msgstr ""
+
+#. Key:	InteractorEnterRegion
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:435
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:435
+msgctxt "ProcessBPEditor,InteractorEnterRegion"
+msgid "{0}({1})"
+msgstr ""
+
+#. Key:	InteractorExitRegion
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:441
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:441
+msgctxt "ProcessBPEditor,InteractorExitRegion"
+msgid "{0}({1})"
+msgstr ""
+
+#. Key:	Logic Browser
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:602
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:602
+msgctxt "ProcessBPEditor,Logic Browser"
+msgid "逻辑浏览器"
+msgstr ""
+
+#. Key:	ProcessBP_MenuTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:607
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:607
+msgctxt "ProcessBPEditor,ProcessBP_MenuTitle"
+msgid "Process Blueprint Title"
+msgstr ""
+
+#. Key:	ProcessBP_MenuTitle_view
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:608
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:608
+msgctxt "ProcessBPEditor,ProcessBP_MenuTitle_view"
+msgid "Process Blueprint view"
+msgstr ""
+
+#. Key:	ProcessBPEditorTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:666
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:666
+msgctxt "ProcessBPEditor,ProcessBPEditorTitle"
+msgid "逻辑浏览器"
+msgstr ""
+
+#. Key:	ServerMode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:75
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditor.cpp:75
+msgctxt "ProcessBPEditor,ServerMode"
+msgid "服务端逻辑"
+msgstr ""
+
+#. Key:	ProcessBPEditor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:16
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:16
+msgctxt "ProcessBPEditorActions,ProcessBPEditor"
+msgid "Process BP Editor"
+msgstr ""
+
+#. Key:	ActiveSkill
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:694
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:694
+msgctxt "ProcessBPEditorCreator,ActiveSkill"
+msgid "主动技能逻辑"
+msgstr ""
+
+#. Key:	AI
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:697
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:697
+msgctxt "ProcessBPEditorCreator,AI"
+msgid "AI逻辑"
+msgstr ""
+
+#. Key:	Buff
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:700
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:700
+msgctxt "ProcessBPEditorCreator,Buff"
+msgid "Buff逻辑"
+msgstr ""
+
+#. Key:	Character
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:696
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:696
+msgctxt "ProcessBPEditorCreator,Character"
+msgid "角色逻辑"
+msgstr ""
+
+#. Key:	Interactor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:698
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:698
+msgctxt "ProcessBPEditorCreator,Interactor"
+msgid "可交互物逻辑"
+msgstr ""
+
+#. Key:	Level
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:693
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:693
+msgctxt "ProcessBPEditorCreator,Level"
+msgid "关卡逻辑"
+msgstr ""
+
+#. Key:	PassiveSkill
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:695
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:695
+msgctxt "ProcessBPEditorCreator,PassiveSkill"
+msgid "被动技能逻辑"
+msgstr ""
+
+#. Key:	ProcessBPEditorName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:189
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:189
+msgctxt "ProcessBPEditorCreator,ProcessBPEditorName"
+msgid "过程蓝图编辑器"
+msgstr ""
+
+#. Key:	ProcessBPEditortip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:190
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:190
+msgctxt "ProcessBPEditorCreator,ProcessBPEditortip"
+msgid "Open Process Blueprint Editor"
+msgstr ""
+
+#. Key:	Projectile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:699
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorCreator.cpp:699
+msgctxt "ProcessBPEditorCreator,Projectile"
+msgid "子弹逻辑"
+msgstr ""
+
+#. Key:	ProcessBPBrowserTabToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/ProcessBPEditor/ProcessBPEditor.h:19
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/ProcessBPEditor/ProcessBPEditor.h:19
+msgctxt "ProcessBPEditorH,ProcessBPBrowserTabToolTip"
+msgid "Open the World Outliner tab, which provides a searchable and filterable list of all actors in the world."
+msgstr ""
+
+#. Key:	MultipleValues
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/Pin/SGraphPin_FFixVar_PinFactory.h:45
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/Pin/SGraphPin_FFixVar_PinFactory.h:45
+msgctxt "PropertyEditor,MultipleValues"
+msgid "Multiple Values"
+msgstr ""
+
+#. Key:	ReportInputError
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameProject/Private/UI/Widget/ReportWidget/ReportWidget.cpp:33
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameProject/Private/UI/Widget/ReportWidget/ReportWidget.cpp:33
+msgctxt "ReportWidget,ReportInputError"
+msgid "举报原因最多输入120个字符"
+msgstr ""
+
+#. Key:	ConfigButton
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:140
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:140
+msgctxt "SGameConfigShowDialog,ConfigButton"
+msgid "获取游戏配置"
+msgstr ""
+
+#. Key:	EnvInput
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:106
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:106
+msgctxt "SGameConfigShowDialog,EnvInput"
+msgid "游戏版本阶段"
+msgstr ""
+
+#. Key:	EnvSelect
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:185
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:185
+msgctxt "SGameConfigShowDialog,EnvSelect"
+msgid "请选择一个游戏版本阶段"
+msgstr ""
+
+#. Key:	ModIDInput
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:42
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:42
+msgctxt "SGameConfigShowDialog,ModIDInput"
+msgid "输入ModID"
+msgstr ""
+
+#. Key:	VersionInput
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:74
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Public/Slate/SGameConfigShowDialog.cpp:74
+msgctxt "SGameConfigShowDialog,VersionInput"
+msgid "输入版本号"
+msgstr ""
+
+#. Key:	CameraConfig
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:230
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:230
+msgctxt "SGameModeView,CameraConfig"
+msgid "Camera Config"
+msgstr "相机配置"
+
+#. Key:	Character
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:226
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:226
+msgctxt "SGameModeView,Character"
+msgid "Character"
+msgstr ""
+
+#. Key:	Edit
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:489
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:489
+msgctxt "SGameModeView,Edit"
+msgid "Edit"
+msgstr ""
+
+#. Key:	ModeComponents
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:77
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:77
+msgctxt "SGameModeView,ModeComponents"
+msgid "Mode Components"
+msgstr ""
+
+#. Key:	New
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:504
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:504
+msgctxt "SGameModeView,New"
+msgid "New"
+msgstr ""
+
+#. Key:	VirtualKey
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:234
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:234
+msgctxt "SGameModeView,VirtualKey"
+msgid "Virtual Key"
+msgstr ""
+
+#. Key:	EditArea
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:200
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:200
+msgctxt "SLevelListWidget,EditArea"
+msgid "EditArea"
+msgstr ""
+
+#. Key:	GameMode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1218
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1218
+msgctxt "SLevelListWidget,GameMode"
+msgid "Game Mode"
+msgstr ""
+
+#. Key:	MapName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1213
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1213
+msgctxt "SLevelListWidget,MapName"
+msgid "Map Name"
+msgstr ""
+
+#. Key:	Name
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:190
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:190
+msgctxt "SLevelListWidget,Name"
+msgid "Name"
+msgstr ""
+
+#. Key:	SelectBox
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:195
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/SGameModeView.cpp:195
+msgctxt "SLevelListWidget,SelectBox"
+msgid "SelectBox"
+msgstr ""
+
+#. Key:	NewProcessBP
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/SProcessBPSectionDetailWidget.cpp:77
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/SProcessBPSectionDetailWidget.cpp:77
+msgctxt "SProcessBPSectionDetailWidget,NewProcessBP"
+msgid "新建"
+msgstr ""
+
+#. Key:	Filters
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/EditorGraph/K2Node/Widget/SelectVariableInfoListWidget.cpp:67
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/EditorGraph/K2Node/Widget/SelectVariableInfoListWidget.cpp:67
+msgctxt "SSelectStringListWidget,Filters"
+msgid "Filters"
+msgstr ""
+
+#. Key:	Filters_Tooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/EditorGraph/K2Node/Widget/SelectVariableInfoListWidget.cpp:46
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/EditorGraph/K2Node/Widget/SelectVariableInfoListWidget.cpp:46
+msgctxt "SSelectStringListWidget,Filters_Tooltip"
+msgid "Filter options for the Class Viewer."
+msgstr ""
+
+#. Key:	TypeDescription 
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/EditorGraph/K2Node/Widget/SelectVariableInfoListWidget.cpp:134
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/EditorGraph/K2Node/Widget/SelectVariableInfoListWidget.cpp:134
+msgctxt "SSelectStringListWidget,TypeDescription "
+msgid "类型：{0}"
+msgstr ""
+
+#. Key:	UnknownColumnText
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1514
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/SLevelListWidget.cpp:1514
+msgctxt "SUTAdminDialog,UnknownColumnText"
+msgid "n/a"
+msgstr ""
+
+#. Key:	mOpenCharacterToolWindow
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreatorCommands.cpp:9
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreatorCommands.cpp:9
+msgctxt "UICommands.FCharacterCreatorModule,mOpenCharacterToolWindow"
+msgid "角色创建工具"
+msgstr ""
+
+#. Key:	mOpenCharacterToolWindow_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreatorCommands.cpp:9
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/CharacterCreator/CharacterCreatorCommands.cpp:9
+msgctxt "UICommands.FCharacterCreatorModule,mOpenCharacterToolWindow_ToolTip"
+msgid "打开角色创建工具"
+msgstr ""
+
+#. Key:	m_DeleteLayer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:25
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:25
+msgctxt "UICommands.FMiniGame3DLayerCommandModule,m_DeleteLayer"
+msgid "Delete Layer"
+msgstr ""
+
+#. Key:	m_DeleteLayer_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:25
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:25
+msgctxt "UICommands.FMiniGame3DLayerCommandModule,m_DeleteLayer_ToolTip"
+msgid "DeleteLayer"
+msgstr ""
+
+#. Key:	m_RenameLayer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:24
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:24
+msgctxt "UICommands.FMiniGame3DLayerCommandModule,m_RenameLayer"
+msgid "Rename Layer"
+msgstr ""
+
+#. Key:	m_RenameLayer_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:24
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:24
+msgctxt "UICommands.FMiniGame3DLayerCommandModule,m_RenameLayer_ToolTip"
+msgid "RenameLayer"
+msgstr ""
+
+#. Key:	mOpen3DLayerToolWindow
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:22
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:22
+msgctxt "UICommands.FMiniGame3DLayerCommandModule,mOpen3DLayerToolWindow"
+msgid "关卡工具"
+msgstr ""
+
+#. Key:	mOpen3DLayerToolWindow_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:22
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Classes/3DLayer/MiniGame3DLayerCommands.cpp:22
+msgctxt "UICommands.FMiniGame3DLayerCommandModule,mOpen3DLayerToolWindow_ToolTip"
+msgid "打开3D层"
+msgstr ""
+
+#. Key:	OpenGameModeEditorCommand
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:155
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:155
+msgctxt "UICommands.GameModeEditor,OpenGameModeEditorCommand"
+msgid "GameModeEditor"
+msgstr ""
+
+#. Key:	OpenGameModeEditorCommand_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:155
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/GameModeEditor/GameModeEditor.cpp:155
+msgctxt "UICommands.GameModeEditor,OpenGameModeEditorCommand_ToolTip"
+msgid "Open GameMode Editor Window,"
+msgstr ""
+
+#. Key:	Delete
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:46
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:46
+msgctxt "UICommands.LevelListActions,Delete"
+msgid "删除关卡"
+msgstr ""
+
+#. Key:	Delete_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:46
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:46
+msgctxt "UICommands.LevelListActions,Delete_ToolTip"
+msgid "删除关卡"
+msgstr ""
+
+#. Key:	Duplicate
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:44
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:44
+msgctxt "UICommands.LevelListActions,Duplicate"
+msgid "创建副本"
+msgstr ""
+
+#. Key:	Duplicate_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:44
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:44
+msgctxt "UICommands.LevelListActions,Duplicate_ToolTip"
+msgid "创建副本"
+msgstr ""
+
+#. Key:	EditStartupMap
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:47
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:47
+msgctxt "UICommands.LevelListActions,EditStartupMap"
+msgid "编辑大厅关卡"
+msgstr ""
+
+#. Key:	EditStartupMap_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:47
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:47
+msgctxt "UICommands.LevelListActions,EditStartupMap_ToolTip"
+msgid "编辑大厅关卡"
+msgstr ""
+
+#. Key:	NewLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:42
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:42
+msgctxt "UICommands.LevelListActions,NewLevel"
+msgid "新建关卡"
+msgstr ""
+
+#. Key:	NewLevel_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:42
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:42
+msgctxt "UICommands.LevelListActions,NewLevel_ToolTip"
+msgid "新建关卡"
+msgstr ""
+
+#. Key:	OpenLevel
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:43
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:43
+msgctxt "UICommands.LevelListActions,OpenLevel"
+msgid "打开关卡"
+msgstr ""
+
+#. Key:	OpenLevel_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:43
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:43
+msgctxt "UICommands.LevelListActions,OpenLevel_ToolTip"
+msgid "打开关卡"
+msgstr ""
+
+#. Key:	OpenLeveListCommand
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:26
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:26
+msgctxt "UICommands.LevelListActions,OpenLeveListCommand"
+msgid "关卡列表"
+msgstr ""
+
+#. Key:	OpenLeveListCommand_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:26
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:26
+msgctxt "UICommands.LevelListActions,OpenLeveListCommand_ToolTip"
+msgid "Open Level List Editor Window. The first Level is selected by default"
+msgstr ""
+
+#. Key:	Rename
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:45
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:45
+msgctxt "UICommands.LevelListActions,Rename"
+msgid "重命名"
+msgstr ""
+
+#. Key:	Rename_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:45
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:45
+msgctxt "UICommands.LevelListActions,Rename_ToolTip"
+msgid "重命名"
+msgstr ""
+
+#. Key:	SetStartupMap
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:48
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:48
+msgctxt "UICommands.LevelListActions,SetStartupMap"
+msgid "设为大厅关卡"
+msgstr ""
+
+#. Key:	SetStartupMap_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:48
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/LevelList/LevelListActions.cpp:48
+msgctxt "UICommands.LevelListActions,SetStartupMap_ToolTip"
+msgid "设为大厅关卡"
+msgstr ""
+
+#. Key:	MiniGameSettingViewer
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/UICommands/MiniGameEditorUICommandList.cpp:20
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/UICommands/MiniGameEditorUICommandList.cpp:20
+msgctxt "UICommands.MiniGameEditor,MiniGameSettingViewer"
+msgid "MiniGameSettingViewer"
+msgstr ""
+
+#. Key:	MiniGameSettingViewer_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/UICommands/MiniGameEditorUICommandList.cpp:20
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorModifier/UICommands/MiniGameEditorUICommandList.cpp:20
+msgctxt "UICommands.MiniGameEditor,MiniGameSettingViewer_ToolTip"
+msgid "Open MiniGame Setting Viewer,"
+msgstr ""
+
+#. Key:	EditClassDefaults
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:27
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:27
+msgctxt "UICommands.ProcessBPEditorActions,EditClassDefaults"
+msgid "编辑默认值"
+msgstr ""
+
+#. Key:	EditClassDefaults_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:27
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:27
+msgctxt "UICommands.ProcessBPEditorActions,EditClassDefaults_ToolTip"
+msgid "编辑当前蓝图的默认值"
+msgstr ""
+
+#. Key:	JumpToGameDataEditor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:28
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:28
+msgctxt "UICommands.ProcessBPEditorActions,JumpToGameDataEditor"
+msgid "编辑数据"
+msgstr ""
+
+#. Key:	JumpToGameDataEditor_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:28
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:28
+msgctxt "UICommands.ProcessBPEditorActions,JumpToGameDataEditor_ToolTip"
+msgid "跳转到数据编辑器进行数据编辑"
+msgstr ""
+
+#. Key:	OpenProcessBPEditorCommand
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:26
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:26
+msgctxt "UICommands.ProcessBPEditorActions,OpenProcessBPEditorCommand"
+msgid "LogicEditor"
+msgstr ""
+
+#. Key:	OpenProcessBPEditorCommand_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:26
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/ProcessBPEditor/ProcessBPEditorActions.cpp:26
+msgctxt "UICommands.ProcessBPEditorActions,OpenProcessBPEditorCommand_ToolTip"
+msgid "Open Process Blueprint Editor Window"
+msgstr ""
+
+#. Key:	GetLevelEventNodeToolTips
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_LevelEventGetData.cpp:102
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_LevelEventGetData.cpp:102
+msgctxt "UK2Node_LevelEventGetData,GetLevelEventNodeToolTips"
+msgid "Get Level Event Data"
+msgstr ""
+
+#. Key:	TweenRotateClockwise
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/TweenRotateConfig_Customization.cpp:49
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/TweenRotateConfig_Customization.cpp:49
+msgctxt "UMG,TweenRotateClockwise"
+msgid "顺时针旋转"
+msgstr ""
+
+#. Key:	TweenRotateCounterclockwise
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/TweenRotateConfig_Customization.cpp:70
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/TweenRotateConfig_Customization.cpp:70
+msgctxt "UMG,TweenRotateCounterclockwise"
+msgid "逆时针旋转"
+msgstr ""
+
+#. Key:	UNetworkManager_SocketError
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/Protocol/Private/Network/NetworkManager.cpp:293
+#: Plugins/Tencent/MiniGameProject/Source/Protocol/Private/Network/NetworkManager.cpp:293
+msgctxt "UNetworkManager,UNetworkManager_SocketError"
+msgid "游戏错误"
+msgstr ""
+
+#. Key:	DeleteElement
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1170
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1170
+msgctxt "UnrealEd,DeleteElement"
+msgid "Delete Element"
+msgstr ""
+
+#. Key:	DuplicateElement
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1177
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1177
+msgctxt "UnrealEd,DuplicateElement"
+msgid "Duplicate Element"
+msgstr ""
+
+#. Key:	InsertElement
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1163
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/DetailCustomization/MiniGameplaySetting_DetailCustomization.cpp:1163
+msgctxt "UnrealEd,InsertElement"
+msgid "Insert Element"
+msgstr ""
+
+#. Key:	AreaEnterArea
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterEnterAreaEvent.cpp:31
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterEnterAreaEvent.cpp:31
+msgctxt "WXUPLevelObject,AreaEnterArea"
+msgid "角色进入区域"
+msgstr ""
+
+#. Key:	AreaExitArea
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterExitAreaEvent.cpp:31
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_CharacterExitAreaEvent.cpp:31
+msgctxt "WXUPLevelObject,AreaExitArea"
+msgid "角色离开区域"
+msgstr ""
+
+#. Key:	GetLevelCharacter
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelCharacter.cpp:30
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelCharacter.cpp:30
+msgctxt "WXUPLevelObject,GetLevelCharacter"
+msgid "Get Level Character"
+msgstr ""
+
+#. Key:	GetLevelInteractor
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelInteractor.cpp:30
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelInteractor.cpp:30
+msgctxt "WXUPLevelObject,GetLevelInteractor"
+msgid "Get Level Interactor"
+msgstr ""
+
+#. Key:	GetLevelObject
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelObject.cpp:19
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLevelObject.cpp:19
+msgctxt "WXUPLevelObject,GetLevelObject"
+msgid "获取场景中指定对象"
+msgstr ""
+
+#. Key:	InteractorEnterArea
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorEnterAreaEvent.cpp:38
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorEnterAreaEvent.cpp:38
+msgctxt "WXUPLevelObject,InteractorEnterArea"
+msgid "可交互物进入区域"
+msgstr ""
+
+#. Key:	InteractorExitArea
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorExitAreaEvent.cpp:38
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_InteractorExitAreaEvent.cpp:38
+msgctxt "WXUPLevelObject,InteractorExitArea"
+msgid "可交互物离开区域"
+msgstr ""
+
+#. Key:	CloudVariableCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariable.cpp:76
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariable.cpp:76
+msgctxt "WXUPPlayBox,CloudVariableCategory"
+msgid "Game Data cloud variable functions"
+msgstr ""
+
+#. Key:	CloudVariableConnectionDisallowed
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariable.cpp:173
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariable.cpp:173
+msgctxt "WXUPPlayBox,CloudVariableConnectionDisallowed"
+msgid "The cloud variable key should select from the given list"
+msgstr ""
+
+#. Key:	Custom_Sort
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_Sort.cpp:58
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_Sort.cpp:58
+msgctxt "WXUPPlayBox,Custom_Sort"
+msgid "Sort"
+msgstr ""
+
+#. Key:	Custom_Sort_Tip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_Sort.cpp:63
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_Sort.cpp:63
+msgctxt "WXUPPlayBox,Custom_Sort_Tip"
+msgid "This node will sort an arry"
+msgstr ""
+
+#. Key:	Custom_SortMap
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SortMap.cpp:66
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SortMap.cpp:66
+msgctxt "WXUPPlayBox,Custom_SortMap"
+msgid "SortMap"
+msgstr ""
+
+#. Key:	Custom_SortMap_Tip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SortMap.cpp:71
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SortMap.cpp:71
+msgctxt "WXUPPlayBox,Custom_SortMap_Tip"
+msgid "This node will sort a map"
+msgstr ""
+
+#. Key:	CustomSortCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicItem.cpp:98
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicItem.cpp:98
+msgctxt "WXUPPlayBox,CustomSortCategory"
+msgid "逻辑转换节点"
+msgstr ""
+
+#. Key:	CustomSortMapCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SortMap.cpp:81
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SortMap.cpp:81
+msgctxt "WXUPPlayBox,CustomSortMapCategory"
+msgid "SortMap"
+msgstr ""
+
+#. Key:	GameDataCloudVariableGetterNodeTile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableGet.cpp:11
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableGet.cpp:11
+msgctxt "WXUPPlayBox,GameDataCloudVariableGetterNodeTile"
+msgid "Get Cloud variable value"
+msgstr ""
+
+#. Key:	GameDataCloudVariableSetterNodeTile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableSet.cpp:18
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableSet.cpp:18
+msgctxt "WXUPPlayBox,GameDataCloudVariableSetterNodeTile"
+msgid "Set Cloud variable value"
+msgstr ""
+
+#. Key:	GameDataCloudVariableValueGetterTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableGet.cpp:16
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableGet.cpp:16
+msgctxt "WXUPPlayBox,GameDataCloudVariableValueGetterTooltip"
+msgid "This node will return the value of cloud variable in game data!"
+msgstr ""
+
+#. Key:	GameDataCloudVariableValueSetterTooltip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableSet.cpp:23
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableSet.cpp:23
+msgctxt "WXUPPlayBox,GameDataCloudVariableValueSetterTooltip"
+msgid "This node will set the value of cloud variable in game data!"
+msgstr ""
+
+#. Key:	GameplayGameMode
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:71
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:71
+msgctxt "WXUPPlayBox,GameplayGameMode"
+msgid "This node will return the current game mode reference in world"
+msgstr ""
+
+#. Key:	GameplayGameModeCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:81
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:81
+msgctxt "WXUPPlayBox,GameplayGameModeCategory"
+msgid "GameMode"
+msgstr ""
+
+#. Key:	GameplayGameModeNodeTile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:45
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:45
+msgctxt "WXUPPlayBox,GameplayGameModeNodeTile"
+msgid "Get Current Game Mode"
+msgstr ""
+
+#. Key:	GameplayGameModeNodeTile_ClassName
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:56
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:56
+msgctxt "WXUPPlayBox,GameplayGameModeNodeTile_ClassName"
+msgid "Game Mode: {ClassName}"
+msgstr ""
+
+#. Key:	GameplayGameModeNodeTile_None
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:62
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameMode.cpp:62
+msgctxt "WXUPPlayBox,GameplayGameModeNodeTile_None"
+msgid "Game Mode: NONE"
+msgstr ""
+
+#. Key:	GetGameData
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:40
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:40
+msgctxt "WXUPPlayBox,GetGameData"
+msgid "This node will get game data by property name!"
+msgstr ""
+
+#. Key:	GetGameDataCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:92
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:92
+msgctxt "WXUPPlayBox,GetGameDataCategory"
+msgid "GetGameDatas"
+msgstr ""
+
+#. Key:	GetGameDataNodeTile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:35
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetGameData.cpp:35
+msgctxt "WXUPPlayBox,GetGameDataNodeTile"
+msgid "Get Game Data Value"
+msgstr ""
+
+#. Key:	GetLevelEventNodeTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_LevelEventGetData.cpp:107
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_LevelEventGetData.cpp:107
+msgctxt "WXUPPlayBox,GetLevelEventNodeTitle"
+msgid "Get LevelEvent Data"
+msgstr ""
+
+#. Key:	GetLightGamePlayerId_Category
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:52
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:52
+msgctxt "WXUPPlayBox,GetLightGamePlayerId_Category"
+msgid "Game"
+msgstr ""
+
+#. Key:	GetLightGamePlayerId_Tile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:37
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:37
+msgctxt "WXUPPlayBox,GetLightGamePlayerId_Tile"
+msgid "Get Current Player ID"
+msgstr ""
+
+#. Key:	GetLightGamePlayerId_Tips
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:42
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:42
+msgctxt "WXUPPlayBox,GetLightGamePlayerId_Tips"
+msgid "This node will return the current playerID"
+msgstr ""
+
+#. Key:	GetMiniGameAttribute
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_GetAttribute.cpp:50
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_GetAttribute.cpp:50
+msgctxt "WXUPPlayBox,GetMiniGameAttribute"
+msgid "This node will get attribute value by attribute name!"
+msgstr ""
+
+#. Key:	GetMiniGameAttributeCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_GetAttribute.cpp:74
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_GetAttribute.cpp:74
+msgctxt "WXUPPlayBox,GetMiniGameAttributeCategory"
+msgid "GetMiniGameAttributeValue"
+msgstr ""
+
+#. Key:	GetMiniGameAttributeTitle
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_GetAttribute.cpp:45
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_GetAttribute.cpp:45
+msgctxt "WXUPPlayBox,GetMiniGameAttributeTitle"
+msgid "Get MiniGame Attribute Value"
+msgstr ""
+
+#. Key:	InvalidGameDataMemberValue
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableGet.cpp:59
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/CloudVariable/K2Node_CloudVariableGet.cpp:59
+msgctxt "WXUPPlayBox,InvalidGameDataMemberValue"
+msgid "The specific member {0} value is not exist in global Game Data"
+msgstr ""
+
+#. Key:	Pin_Failed
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:20
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:20
+msgctxt "WXUPPlayBox,Pin_Failed"
+msgid "Failed"
+msgstr ""
+
+#. Key:	Pin_PlayerId
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:19
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_GetLightGamePlayerId.cpp:19
+msgctxt "WXUPPlayBox,Pin_PlayerId"
+msgid "PlayerID"
+msgstr ""
+
+#. Key:	Set MiniGame_Attribute
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_SetAttribute.cpp:49
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_SetAttribute.cpp:49
+msgctxt "WXUPPlayBox,Set MiniGame_Attribute"
+msgid "This node will set mini game base attribute!"
+msgstr ""
+
+#. Key:	Set MiniGame_Attribute NodeTile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_SetAttribute.cpp:44
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_SetAttribute.cpp:44
+msgctxt "WXUPPlayBox,Set MiniGame_Attribute NodeTile"
+msgid "Set MiniGame Base Attribute"
+msgstr ""
+
+#. Key:	SetMiniGame_AttributeCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_SetAttribute.cpp:73
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/MiniGame_Skill/K2Node_MiniGame_SetAttribute.cpp:73
+msgctxt "WXUPPlayBox,SetMiniGame_AttributeCategory"
+msgid "Set MiniGame Attribute"
+msgstr ""
+
+#. Key:	SpawnLogicObject_Tip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:93
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:93
+msgctxt "WXUPPlayBox,SpawnLogicObject_Tip"
+msgid "This node will Spawn a Object by property name!"
+msgstr ""
+
+#. Key:	SpawnLogicObjectCategory
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:117
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:117
+msgctxt "WXUPPlayBox,SpawnLogicObjectCategory"
+msgid "LogicNode"
+msgstr ""
+
+#. Key:	SpawnLogicObjectTile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:88
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_SpawnLogicObject.cpp:88
+msgctxt "WXUPPlayBox,SpawnLogicObjectTile"
+msgid "Spawn Logic Object"
+msgstr ""
+
+#. Key:	UK2Node_DynamicCastLogicItem
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicItem.cpp:75
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicItem.cpp:75
+msgctxt "WXUPPlayBox,UK2Node_DynamicCastLogicItem"
+msgid "获取交互物逻辑脚本"
+msgstr ""
+
+#. Key:	UK2Node_DynamicCastLogicItem_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicItem.cpp:85
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicItem.cpp:85
+msgctxt "WXUPPlayBox,UK2Node_DynamicCastLogicItem_ToolTip"
+msgid "获取交互物逻辑脚本"
+msgstr ""
+
+#. Key:	UK2Node_DynamicCastLogicScript
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicScript.cpp:137
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicScript.cpp:137
+msgctxt "WXUPPlayBox,UK2Node_DynamicCastLogicScript"
+msgid "获取逻辑对象脚本"
+msgstr ""
+
+#. Key:	UK2Node_DynamicCastLogicScript_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicScript.cpp:146
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastLogicScript.cpp:146
+msgctxt "WXUPPlayBox,UK2Node_DynamicCastLogicScript_ToolTip"
+msgid "获取角色逻辑脚本"
+msgstr ""
+
+#. Key:	UK2Node_DynamicCastProjectile
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastProjectile.cpp:75
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastProjectile.cpp:75
+msgctxt "WXUPPlayBox,UK2Node_DynamicCastProjectile"
+msgid "获取子弹逻辑脚本"
+msgstr ""
+
+#. Key:	UK2Node_DynamicCastProjectile_ToolTip
+#. SourceLocation:	Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastProjectile.cpp:80
+#: Plugins/Tencent/MiniGameProject/Source/MiniGameEditor/Private/EditorGraph/K2Node/K2Node_DynamicCastProjectile.cpp:80
+msgctxt "WXUPPlayBox,UK2Node_DynamicCastProjectile_ToolTip"
+msgid "获取子弹逻辑脚本"
+msgstr ""
+

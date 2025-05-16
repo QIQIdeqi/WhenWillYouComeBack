@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "WXUP_UE427_H5",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "LightGameBox",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "MiniGameProject",
+			"Enabled": true
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "LightGameBoxPluginTest",
+			"Enabled": true
+		}
+	]
+}

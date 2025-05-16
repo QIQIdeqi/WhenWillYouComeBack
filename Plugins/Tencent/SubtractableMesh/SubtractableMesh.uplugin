@@ -1,0 +1,34 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SubtractableMesh",
+	"Description": "Plugin to allow boolean operations on meshes",
+	"Category": "Tencent",
+	"CreatedBy": "yangghu",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"CanBeUsedWithUnrealHeaderTool": true,
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "SubtractableMesh",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"ProceduralMeshComponent"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	]
+}
